@@ -10,16 +10,12 @@ by [Jaewoo Ahn*](https://ahnjaewoo.github.io/), [Heeseung Yun*](https://hs-yn.gi
     <img src="./img/main_figure.png" alt="main figure" width="100%" height="100%">
 </p>
 
----
+## Code Implementation
 
-## Implementation Status
-
-We plan to release the full implementation and resources **soon**.
+We plan to release the full implementation **soon**.
 
 Stay tuned for updates!
 
----
-
 ## Contact
 
-If you have any questions about our codes, feel free to ask us: Jaewoo Ahn (jaewoo.ahn@vision.snu.ac.kr) or Heeseung Yun (heeseung.yun@vision.snu.ac.kr)
+If you have any questions, feel free to ask us: Jaewoo Ahn (jaewoo.ahn@vision.snu.ac.kr) or Heeseung Yun (heeseung.yun@vision.snu.ac.kr)
