@@ -1,0 +1,14 @@
+You will be given a caption describing the {contents_modality}. Your task is to generate a hard negative caption based on the "object addition" scenario using the criteria below:
+
+***
+[Generation Criteria]
+1. Generate a new plausible but uncommon object that's not in the given caption, and then add the new object to make a new caption.
+2. Ensure the new caption has higher similarity to the {contents_modality} in {contents_modality}-text crossmodal model than the given caption.
+3. Introduce a contradiction compared to the given caption, but avoid simple negations (e.g., using words like "no", "not", "empty", or "without").
+4. Make fewer than {max_word_distance_plus_one} word-level changes (add words) to the given caption without fully rewriting it to generate the new caption.
+
+[Given Caption]
+- {caption}
+***
+
+Write only the new caption starting with "Generated Caption: ", without explanation.

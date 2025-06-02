@@ -1,0 +1,9224 @@
+{
+    "video7020": [
+        {
+            "DET": 2,
+            "NOUN": 3,
+            "VERB": 1,
+            "ADJ": 1,
+            "CCONJ": 1
+        }
+    ],
+    "video7021": [
+        {
+            "NOUN": 3,
+            "VERB": 1
+        }
+    ],
+    "video7024": [
+        {
+            "ADJ": 3,
+            "NOUN": 4,
+            "VERB": 2,
+            "DET": 1,
+            "CCONJ": 1,
+            "ADP": 1
+        }
+    ],
+    "video7025": [
+        {
+            "DET": 2,
+            "ADJ": 1,
+            "NOUN": 2,
+            "VERB": 1,
+            "ADP": 1
+        }
+    ],
+    "video7026": [
+        {
+            "DET": 3,
+            "NOUN": 3,
+            "AUX": 1,
+            "VERB": 1,
+            "ADP": 1
+        }
+    ],
+    "video7027": [
+        {
+            "DET": 4,
+            "NOUN": 4,
+            "ADP": 2,
+            "AUX": 2,
+            "VERB": 2,
+            "ADJ": 1,
+            "SCONJ": 1
+        }
+    ],
+    "video7028": [
+        {
+            "DET": 2,
+            "NOUN": 2,
+            "AUX": 1,
+            "VERB": 2,
+            "CCONJ": 1,
+            "ADP": 1
+        }
+    ],
+    "video7029": [
+        {
+            "PROPN": 1,
+            "NOUN": 2,
+            "ADP": 1
+        }
+    ],
+    "video7034": [
+        {
+            "NOUN": 4,
+            "ADP": 2,
+            "ADJ": 2,
+            "AUX": 1,
+            "VERB": 2,
+            "DET": 1,
+            "ADV": 2,
+            "CCONJ": 1
+        }
+    ],
+    "video7035": [
+        {
+            "PRON": 2,
+            "VERB": 2,
+            "DET": 2,
+            "NOUN": 2,
+            "ADP": 1
+        }
+    ],
+    "video7060": [
+        {
+            "DET": 2,
+            "NOUN": 2,
+            "VERB": 1,
+            "ADV": 1
+        }
+    ],
+    "video7061": [
+        {
+            "PROPN": 1,
+            "NOUN": 3,
+            "DET": 2,
+            "ADJ": 2,
+            "ADP": 2
+        }
+    ],
+    "video7064": [
+        {
+            "DET": 4,
+            "NOUN": 6,
+            "VERB": 2,
+            "ADJ": 1,
+            "CCONJ": 1,
+            "ADP": 1
+        }
+    ],
+    "video7110": [
+        {
+            "PRON": 1,
+            "VERB": 2,
+            "DET": 2,
+            "NOUN": 3,
+            "ADJ": 1,
+            "ADP": 1
+        }
+    ],
+    "video7111": [
+        {
+            "PRON": 1,
+            "AUX": 1,
+            "DET": 1,
+            "NOUN": 2
+        }
+    ],
+    "video7112": [
+        {
+            "SCONJ": 1,
+            "ADJ": 4,
+            "NOUN": 4,
+            "ADV": 1,
+            "VERB": 3,
+            "CCONJ": 1,
+            "DET": 1,
+            "PRON": 2,
+            "AUX": 1,
+            "PART": 1,
+            "ADP": 1
+        }
+    ],
+    "video7113": [
+        {
+            "DET": 3,
+            "NOUN": 3,
+            "ADP": 2,
+            "ADJ": 3,
+            "VERB": 1
+        }
+    ],
+    "video7114": [
+        {
+            "DET": 3,
+            "NOUN": 2,
+            "CCONJ": 1,
+            "AUX": 1,
+            "VERB": 1,
+            "ADP": 1,
+            "ADJ": 1
+        }
+    ],
+    "video7115": [
+        {
+            "DET": 2,
+            "NOUN": 2,
+            "AUX": 1,
+            "VERB": 1,
+            "ADP": 1,
+            "ADJ": 1
+        }
+    ],
+    "video7116": [
+        {
+            "DET": 2,
+            "NOUN": 4,
+            "ADP": 2,
+            "AUX": 2,
+            "VERB": 2,
+            "PRON": 1
+        }
+    ],
+    "video7117": [
+        {
+            "NOUN": 2,
+            "AUX": 1,
+            "VERB": 1,
+            "ADP": 1,
+            "DET": 1
+        }
+    ],
+    "video7118": [
+        {
+            "DET": 2,
+            "ADJ": 1,
+            "NOUN": 3,
+            "ADP": 1,
+            "AUX": 1,
+            "VERB": 1
+        }
+    ],
+    "video7119": [
+        {
+            "NOUN": 4,
+            "VERB": 1,
+            "ADP": 3,
+            "DET": 1,
+            "ADJ": 1,
+            "PROPN": 2
+        }
+    ],
+    "video7131": [
+        {
+            "NOUN": 2,
+            "AUX": 1,
+            "VERB": 3,
+            "ADJ": 1,
+            "CCONJ": 1,
+            "ADP": 1,
+            "DET": 1
+        }
+    ],
+    "video7134": [
+        {
+            "DET": 2,
+            "NOUN": 3,
+            "AUX": 2,
+            "VERB": 1,
+            "ADP": 1,
+            "ADJ": 1
+        }
+    ],
+    "video7135": [
+        {
+            "DET": 3,
+            "NOUN": 6,
+            "ADP": 3,
+            "VERB": 1
+        }
+    ],
+    "video7137": [
+        {
+            "PROPN": 2,
+            "AUX": 1,
+            "VERB": 2,
+            "ADP": 1
+        }
+    ],
+    "video7138": [
+        {
+            "DET": 2,
+            "NOUN": 2,
+            "VERB": 3,
+            "ADP": 1,
+            "NUM": 1,
+            "PRON": 1
+        }
+    ],
+    "video7140": [
+        {
+            "PRON": 1,
+            "AUX": 1,
+            "VERB": 1,
+            "NOUN": 2,
+            "ADP": 1,
+            "DET": 1
+        }
+    ],
+    "video7141": [
+        {
+            "DET": 3,
+            "NOUN": 6,
+            "PRON": 1,
+            "AUX": 1,
+            "PROPN": 1,
+            "ADP": 2
+        }
+    ],
+    "video7142": [
+        {
+            "DET": 3,
+            "ADJ": 3,
+            "NOUN": 4,
+            "AUX": 2,
+            "VERB": 3,
+            "ADP": 2,
+            "CCONJ": 1
+        }
+    ],
+    "video7143": [
+        {
+            "PRON": 1,
+            "VERB": 1,
+            "NOUN": 2,
+            "ADP": 1,
+            "DET": 1
+        }
+    ],
+    "video7144": [
+        {
+            "DET": 2,
+            "NOUN": 5,
+            "ADP": 2,
+            "AUX": 1,
+            "VERB": 1,
+            "CCONJ": 1,
+            "ADV": 1
+        }
+    ],
+    "video7145": [
+        {
+            "DET": 2,
+            "NOUN": 3,
+            "ADP": 2,
+            "VERB": 1,
+            "ADJ": 1
+        }
+    ],
+    "video7146": [
+        {
+            "DET": 2,
+            "NOUN": 2,
+            "AUX": 1,
+            "VERB": 1,
+            "ADP": 1
+        }
+    ],
+    "video7147": [
+        {
+            "DET": 2,
+            "NOUN": 4,
+            "VERB": 1,
+            "CCONJ": 1,
+            "ADP": 1
+        }
+    ],
+    "video7148": [
+        {
+            "DET": 2,
+            "NOUN": 2,
+            "AUX": 1,
+            "VERB": 1
+        }
+    ],
+    "video7149": [
+        {
+            "DET": 3,
+            "NOUN": 4,
+            "ADP": 3
+        }
+    ],
+    "video7150": [
+        {
+            "DET": 5,
+            "NOUN": 5,
+            "ADP": 2,
+            "AUX": 3,
+            "VERB": 2,
+            "CCONJ": 2,
+            "PRON": 1,
+            "ADJ": 1
+        }
+    ],
+    "video7151": [
+        {
+            "DET": 2,
+            "NOUN": 2,
+            "AUX": 1,
+            "VERB": 1,
+            "ADP": 1
+        }
+    ],
+    "video7152": [
+        {
+            "DET": 2,
+            "NOUN": 3,
+            "AUX": 1,
+            "VERB": 1,
+            "ADP": 1,
+            "ADJ": 1
+        }
+    ],
+    "video7153": [
+        {
+            "PRON": 1,
+            "VERB": 2,
+            "DET": 1,
+            "NOUN": 3,
+            "ADP": 2,
+            "NUM": 1
+        }
+    ],
+    "video7154": [
+        {
+            "NOUN": 2,
+            "ADP": 1,
+            "SCONJ": 1,
+            "PART": 1,
+            "VERB": 2,
+            "PRON": 1,
+            "DET": 1
+        }
+    ],
+    "video7155": [
+        {
+            "PRON": 1,
+            "VERB": 2,
+            "NUM": 1,
+            "NOUN": 2,
+            "ADP": 1,
+            "DET": 1
+        }
+    ],
+    "video7156": [
+        {
+            "PROPN": 2,
+            "VERB": 1,
+            "ADV": 1,
+            "ADP": 1,
+            "DET": 1,
+            "NOUN": 2
+        }
+    ],
+    "video7157": [
+        {
+            "DET": 2,
+            "ADJ": 1,
+            "NOUN": 3,
+            "VERB": 1,
+            "ADP": 1
+        }
+    ],
+    "video7158": [
+        {
+            "PROPN": 6,
+            "ADJ": 1,
+            "NOUN": 3,
+            "VERB": 1,
+            "DET": 1,
+            "ADP": 1,
+            "CCONJ": 1
+        }
+    ],
+    "video7159": [
+        {
+            "PROPN": 6,
+            "AUX": 2,
+            "VERB": 2,
+            "ADP": 2,
+            "SCONJ": 1,
+            "ADJ": 1,
+            "NOUN": 1
+        }
+    ],
+    "video7160": [
+        {
+            "DET": 2,
+            "NOUN": 3,
+            "VERB": 1,
+            "ADJ": 1,
+            "ADP": 1
+        }
+    ],
+    "video7162": [
+        {
+            "NOUN": 3,
+            "VERB": 1,
+            "ADP": 2,
+            "DET": 2
+        }
+    ],
+    "video7163": [
+        {
+            "DET": 2,
+            "ADJ": 2,
+            "NOUN": 2,
+            "AUX": 1,
+            "VERB": 1,
+            "ADV": 1
+        }
+    ],
+    "video7164": [
+        {
+            "DET": 2,
+            "NOUN": 4,
+            "VERB": 1
+        }
+    ],
+    "video7165": [
+        {
+            "DET": 2,
+            "NOUN": 5,
+            "VERB": 1,
+            "ADP": 1
+        }
+    ],
+    "video7166": [
+        {
+            "DET": 1,
+            "NOUN": 1,
+            "AUX": 1,
+            "VERB": 1,
+            "PRON": 1
+        }
+    ],
+    "video7168": [
+        {
+            "PRON": 1,
+            "AUX": 1,
+            "VERB": 1,
+            "ADP": 1,
+            "NOUN": 1
+        }
+    ],
+    "video7169": [
+        {
+            "DET": 2,
+            "ADJ": 1,
+            "NOUN": 3,
+            "VERB": 2,
+            "PRON": 1,
+            "CCONJ": 1,
+            "ADV": 1,
+            "ADP": 1
+        }
+    ],
+    "video7170": [
+        {
+            "DET": 1,
+            "NOUN": 4,
+            "VERB": 1,
+            "PRON": 1,
+            "CCONJ": 1
+        }
+    ],
+    "video7171": [
+        {
+            "DET": 4,
+            "NOUN": 4,
+            "VERB": 1,
+            "ADJ": 2,
+            "ADP": 2
+        }
+    ],
+    "video7172": [
+        {
+            "DET": 3,
+            "NOUN": 4,
+            "VERB": 1,
+            "PRON": 1,
+            "ADP": 1
+        }
+    ],
+    "video7173": [
+        {
+            "DET": 2,
+            "NOUN": 2,
+            "AUX": 1,
+            "VERB": 2,
+            "ADJ": 1,
+            "CCONJ": 1,
+            "ADP": 1,
+            "PRON": 1
+        }
+    ],
+    "video7174": [
+        {
+            "DET": 4,
+            "NOUN": 4,
+            "VERB": 1,
+            "ADP": 2
+        }
+    ],
+    "video7175": [
+        {
+            "DET": 2,
+            "NOUN": 3,
+            "VERB": 1
+        }
+    ],
+    "video7176": [
+        {
+            "DET": 1,
+            "NOUN": 3,
+            "AUX": 1,
+            "VERB": 1,
+            "ADP": 1,
+            "PROPN": 1
+        }
+    ],
+    "video7177": [
+        {
+            "NOUN": 2,
+            "AUX": 1,
+            "VERB": 1,
+            "ADP": 1,
+            "DET": 1
+        }
+    ],
+    "video7178": [
+        {
+            "DET": 1,
+            "VERB": 1,
+            "NOUN": 3
+        }
+    ],
+    "video7179": [
+        {
+            "NUM": 1,
+            "ADJ": 1,
+            "NOUN": 2,
+            "PRON": 1,
+            "AUX": 1,
+            "VERB": 1,
+            "ADP": 1
+        }
+    ],
+    "video7200": [
+        {
+            "DET": 3,
+            "ADJ": 1,
+            "NOUN": 4,
+            "VERB": 2,
+            "SCONJ": 1,
+            "AUX": 1,
+            "ADP": 2
+        }
+    ],
+    "video7201": [
+        {
+            "PROPN": 1,
+            "CCONJ": 1,
+            "PRON": 1,
+            "NOUN": 1
+        }
+    ],
+    "video7202": [
+        {
+            "DET": 2,
+            "NOUN": 3,
+            "ADP": 2,
+            "AUX": 1,
+            "VERB": 1
+        }
+    ],
+    "video7203": [
+        {
+            "PRON": 1,
+            "VERB": 3,
+            "DET": 4,
+            "NOUN": 5,
+            "SCONJ": 1
+        }
+    ],
+    "video7204": [
+        {
+            "DET": 2,
+            "ADJ": 1,
+            "NOUN": 2,
+            "AUX": 2,
+            "VERB": 2,
+            "CCONJ": 1
+        }
+    ],
+    "video7205": [
+        {
+            "NOUN": 4,
+            "VERB": 3,
+            "ADV": 1,
+            "ADP": 1,
+            "DET": 2,
+            "ADJ": 1,
+            "CCONJ": 2
+        }
+    ],
+    "video7206": [
+        {
+            "DET": 2,
+            "NOUN": 3,
+            "AUX": 2,
+            "VERB": 3,
+            "ADP": 2,
+            "PRON": 1,
+            "PART": 1,
+            "PROPN": 1
+        }
+    ],
+    "video7207": [
+        {
+            "ADJ": 1,
+            "NOUN": 3,
+            "VERB": 2,
+            "CCONJ": 1,
+            "DET": 1
+        }
+    ],
+    "video7209": [
+        {
+            "PRON": 1,
+            "AUX": 1,
+            "VERB": 1,
+            "DET": 1,
+            "NOUN": 2
+        }
+    ],
+    "video7211": [
+        {
+            "NOUN": 4,
+            "VERB": 1,
+            "PRON": 1,
+            "ADP": 1,
+            "DET": 1
+        }
+    ],
+    "video7212": [
+        {
+            "DET": 4,
+            "NOUN": 4,
+            "CCONJ": 1,
+            "AUX": 1,
+            "VERB": 1,
+            "ADP": 1
+        }
+    ],
+    "video7213": [
+        {
+            "DET": 1,
+            "NOUN": 1,
+            "AUX": 1,
+            "VERB": 1,
+            "PROPN": 1
+        }
+    ],
+    "video7214": [
+        {
+            "NOUN": 4,
+            "ADP": 3,
+            "ADJ": 2,
+            "VERB": 1,
+            "DET": 1
+        }
+    ],
+    "video7215": [
+        {
+            "NOUN": 2,
+            "VERB": 1,
+            "DET": 1
+        }
+    ],
+    "video7216": [
+        {
+            "DET": 1,
+            "NOUN": 4,
+            "VERB": 1
+        }
+    ],
+    "video7217": [
+        {
+            "DET": 2,
+            "NOUN": 2,
+            "AUX": 1,
+            "VERB": 1
+        }
+    ],
+    "video7218": [
+        {
+            "NOUN": 1,
+            "ADP": 1,
+            "ADJ": 1,
+            "PROPN": 1
+        }
+    ],
+    "video7219": [
+        {
+            "DET": 3,
+            "NOUN": 5,
+            "VERB": 1,
+            "ADJ": 2,
+            "ADP": 2,
+            "NUM": 1
+        }
+    ],
+    "video7220": [
+        {
+            "NOUN": 3,
+            "VERB": 1,
+            "ADV": 1,
+            "ADP": 1,
+            "DET": 1
+        }
+    ],
+    "video7222": [
+        {
+            "DET": 1,
+            "NOUN": 4,
+            "ADP": 1,
+            "PRON": 1
+        }
+    ],
+    "video7223": [
+        {
+            "DET": 2,
+            "ADJ": 2,
+            "CCONJ": 1,
+            "NOUN": 2,
+            "VERB": 1,
+            "ADV": 1,
+            "ADP": 1
+        }
+    ],
+    "video7227": [
+        {
+            "DET": 1,
+            "NOUN": 1,
+            "AUX": 1,
+            "VERB": 1
+        }
+    ],
+    "video7228": [
+        {
+            "DET": 1,
+            "NOUN": 2,
+            "AUX": 1,
+            "VERB": 2,
+            "CCONJ": 1
+        }
+    ],
+    "video7229": [
+        {
+            "DET": 1,
+            "NOUN": 2,
+            "AUX": 1,
+            "VERB": 1,
+            "ADP": 1
+        }
+    ],
+    "video7230": [
+        {
+            "DET": 2,
+            "NOUN": 3,
+            "AUX": 1,
+            "VERB": 1,
+            "ADP": 1
+        }
+    ],
+    "video7231": [
+        {
+            "DET": 1,
+            "NOUN": 1,
+            "VERB": 1,
+            "PRON": 1
+        }
+    ],
+    "video7232": [
+        {
+            "DET": 2,
+            "NOUN": 3,
+            "VERB": 1,
+            "ADP": 1
+        }
+    ],
+    "video7233": [
+        {
+            "NOUN": 5,
+            "ADP": 4,
+            "NUM": 1,
+            "VERB": 1,
+            "DET": 2,
+            "ADJ": 1
+        }
+    ],
+    "video7234": [
+        {
+            "DET": 2,
+            "NOUN": 3,
+            "VERB": 1,
+            "ADP": 2,
+            "NUM": 1,
+            "AUX": 1
+        }
+    ],
+    "video7235": [
+        {
+            "NOUN": 4,
+            "ADP": 4,
+            "DET": 3,
+            "VERB": 1
+        }
+    ],
+    "video7236": [
+        {
+            "NOUN": 1,
+            "VERB": 2,
+            "ADP": 1
+        }
+    ],
+    "video7237": [
+        {
+            "PRON": 1,
+            "VERB": 2,
+            "DET": 3,
+            "NOUN": 3,
+            "ADP": 1
+        }
+    ],
+    "video7333": [
+        {
+            "PRON": 1,
+            "VERB": 2,
+            "NOUN": 7,
+            "CCONJ": 2,
+            "ADP": 3,
+            "PROPN": 5,
+            "SCONJ": 1,
+            "DET": 1
+        }
+    ],
+    "video7340": [
+        {
+            "DET": 1,
+            "NOUN": 4,
+            "AUX": 1,
+            "VERB": 1,
+            "ADP": 2,
+            "PRON": 2,
+            "PART": 1,
+            "SCONJ": 1
+        }
+    ],
+    "video7341": [
+        {
+            "ADP": 3,
+            "DET": 3,
+            "NOUN": 4,
+            "VERB": 1
+        }
+    ],
+    "video7342": [
+        {
+            "NOUN": 4,
+            "ADP": 3,
+            "DET": 3,
+            "AUX": 1,
+            "VERB": 3,
+            "CCONJ": 1,
+            "PRON": 3,
+            "ADJ": 1
+        }
+    ],
+    "video7343": [
+        {
+            "DET": 2,
+            "NOUN": 2,
+            "VERB": 1,
+            "ADP": 1
+        }
+    ],
+    "video7345": [
+        {
+            "DET": 2,
+            "NOUN": 4,
+            "AUX": 2,
+            "VERB": 4,
+            "ADP": 2,
+            "PRON": 1,
+            "ADJ": 1,
+            "SCONJ": 2,
+            "PART": 1
+        }
+    ],
+    "video7346": [
+        {
+            "DET": 2,
+            "NOUN": 4,
+            "SCONJ": 1,
+            "PRON": 1,
+            "VERB": 1
+        }
+    ],
+    "video7347": [
+        {
+            "DET": 2,
+            "NOUN": 2,
+            "AUX": 1,
+            "VERB": 2,
+            "SCONJ": 1,
+            "PART": 1,
+            "PRON": 1,
+            "ADP": 1
+        }
+    ],
+    "video7348": [
+        {
+            "DET": 1,
+            "NOUN": 2,
+            "AUX": 1,
+            "VERB": 1,
+            "ADP": 1
+        }
+    ],
+    "video7349": [
+        {
+            "DET": 1,
+            "ADJ": 2,
+            "NOUN": 1,
+            "VERB": 1,
+            "PRON": 1,
+            "ADV": 1
+        }
+    ],
+    "video7350": [
+        {
+            "NUM": 1,
+            "NOUN": 2,
+            "AUX": 1,
+            "VERB": 1,
+            "ADP": 1
+        }
+    ],
+    "video7351": [
+        {
+            "DET": 2,
+            "NOUN": 2,
+            "AUX": 1,
+            "VERB": 1,
+            "ADP": 1
+        }
+    ],
+    "video7352": [
+        {
+            "DET": 1,
+            "NOUN": 5,
+            "VERB": 2,
+            "PROPN": 1,
+            "CCONJ": 1,
+            "ADP": 1
+        }
+    ],
+    "video7353": [
+        {
+            "DET": 1,
+            "ADJ": 1,
+            "NOUN": 2,
+            "AUX": 2,
+            "VERB": 1
+        }
+    ],
+    "video7354": [
+        {
+            "DET": 3,
+            "NOUN": 3,
+            "AUX": 1,
+            "VERB": 1,
+            "ADP": 1
+        }
+    ],
+    "video7355": [
+        {
+            "DET": 4,
+            "NOUN": 7,
+            "AUX": 1,
+            "VERB": 1,
+            "ADP": 3,
+            "ADJ": 1
+        }
+    ],
+    "video7356": [
+        {
+            "DET": 1,
+            "NOUN": 3,
+            "ADP": 4,
+            "PRON": 2,
+            "VERB": 1
+        }
+    ],
+    "video7357": [
+        {
+            "NOUN": 6,
+            "AUX": 1,
+            "VERB": 1,
+            "ADP": 4,
+            "ADJ": 2
+        }
+    ],
+    "video7358": [
+        {
+            "PRON": 1,
+            "AUX": 1,
+            "DET": 1,
+            "NOUN": 2
+        }
+    ],
+    "video7359": [
+        {
+            "NUM": 1,
+            "NOUN": 2,
+            "AUX": 1,
+            "VERB": 1,
+            "ADP": 1
+        }
+    ],
+    "video7360": [
+        {
+            "DET": 2,
+            "NOUN": 6,
+            "AUX": 1,
+            "VERB": 2,
+            "CCONJ": 1,
+            "ADP": 2,
+            "ADJ": 2,
+            "PART": 1
+        }
+    ],
+    "video7361": [
+        {
+            "DET": 2,
+            "NOUN": 2,
+            "ADP": 1
+        }
+    ],
+    "video7362": [
+        {
+            "DET": 1,
+            "NOUN": 2,
+            "AUX": 1,
+            "VERB": 1,
+            "ADP": 1
+        }
+    ],
+    "video7363": [
+        {
+            "DET": 3,
+            "NOUN": 3,
+            "VERB": 1,
+            "ADP": 1
+        }
+    ],
+    "video7364": [
+        {
+            "DET": 1,
+            "ADJ": 2,
+            "NOUN": 6,
+            "ADP": 3,
+            "AUX": 1,
+            "VERB": 2
+        }
+    ],
+    "video7365": [
+        {
+            "NOUN": 3,
+            "AUX": 1,
+            "VERB": 1,
+            "ADP": 1,
+            "DET": 1
+        }
+    ],
+    "video7366": [
+        {
+            "PRON": 2,
+            "VERB": 2,
+            "NOUN": 2,
+            "ADP": 2,
+            "DET": 1,
+            "CCONJ": 1
+        }
+    ],
+    "video7367": [
+        {
+            "PRON": 1,
+            "AUX": 1,
+            "DET": 1,
+            "NOUN": 4
+        }
+    ],
+    "video7368": [
+        {
+            "DET": 1,
+            "ADJ": 1,
+            "NOUN": 2
+        }
+    ],
+    "video7369": [
+        {
+            "DET": 2,
+            "NOUN": 3,
+            "AUX": 1,
+            "VERB": 2,
+            "ADP": 1
+        }
+    ],
+    "video7370": [
+        {
+            "NOUN": 4,
+            "CCONJ": 2,
+            "VERB": 1,
+            "ADP": 1
+        }
+    ],
+    "video7371": [
+        {
+            "DET": 2,
+            "NOUN": 6,
+            "VERB": 3,
+            "ADP": 3,
+            "CCONJ": 1,
+            "PROPN": 2
+        }
+    ],
+    "video7372": [
+        {
+            "PRON": 1,
+            "AUX": 1,
+            "VERB": 1,
+            "DET": 1,
+            "NOUN": 1
+        }
+    ],
+    "video7373": [
+        {
+            "DET": 2,
+            "NOUN": 2,
+            "VERB": 1
+        }
+    ],
+    "video7374": [
+        {
+            "NOUN": 4,
+            "VERB": 1,
+            "ADV": 1,
+            "ADJ": 1
+        }
+    ],
+    "video7375": [
+        {
+            "DET": 2,
+            "NOUN": 3,
+            "VERB": 1,
+            "ADP": 1
+        }
+    ],
+    "video7376": [
+        {
+            "NOUN": 5,
+            "AUX": 2,
+            "VERB": 2,
+            "ADP": 2,
+            "DET": 2,
+            "CCONJ": 1
+        }
+    ],
+    "video7377": [
+        {
+            "DET": 1,
+            "NOUN": 2,
+            "VERB": 1,
+            "ADP": 1,
+            "ADJ": 1
+        }
+    ],
+    "video7378": [
+        {
+            "DET": 1,
+            "NOUN": 3,
+            "ADP": 1
+        }
+    ],
+    "video7410": [
+        {
+            "NOUN": 5,
+            "PROPN": 1,
+            "ADP": 3,
+            "DET": 2
+        }
+    ],
+    "video7411": [
+        {
+            "ADV": 1,
+            "ADJ": 2,
+            "NOUN": 5,
+            "VERB": 1,
+            "DET": 2,
+            "CCONJ": 1,
+            "AUX": 1,
+            "ADP": 1
+        }
+    ],
+    "video7412": [
+        {
+            "DET": 3,
+            "NOUN": 3,
+            "VERB": 4,
+            "ADP": 1,
+            "ADJ": 1,
+            "PART": 1
+        }
+    ],
+    "video7413": [
+        {
+            "PRON": 2,
+            "VERB": 2,
+            "DET": 1,
+            "NOUN": 2,
+            "ADP": 1
+        }
+    ],
+    "video7414": [
+        {
+            "DET": 3,
+            "NOUN": 5,
+            "ADP": 2,
+            "VERB": 2,
+            "CCONJ": 1
+        }
+    ],
+    "video7415": [
+        {
+            "ADP": 3,
+            "DET": 5,
+            "NOUN": 5,
+            "AUX": 2,
+            "VERB": 2,
+            "CCONJ": 1
+        }
+    ],
+    "video7418": [
+        {
+            "DET": 2,
+            "ADJ": 2,
+            "NOUN": 4,
+            "VERB": 1,
+            "ADP": 2,
+            "CCONJ": 1
+        }
+    ],
+    "video7419": [
+        {
+            "DET": 2,
+            "NOUN": 5,
+            "VERB": 1,
+            "CCONJ": 1,
+            "ADP": 1
+        }
+    ],
+    "video7431": [
+        {
+            "DET": 3,
+            "NOUN": 3,
+            "VERB": 1,
+            "ADP": 2,
+            "PROPN": 2
+        }
+    ],
+    "video7432": [
+        {
+            "DET": 2,
+            "NOUN": 3,
+            "ADP": 2,
+            "VERB": 1
+        }
+    ],
+    "video7436": [
+        {
+            "DET": 2,
+            "NOUN": 2,
+            "AUX": 1,
+            "VERB": 1,
+            "ADP": 1
+        }
+    ],
+    "video7438": [
+        {
+            "DET": 2,
+            "NOUN": 2,
+            "ADP": 1,
+            "AUX": 2,
+            "VERB": 1
+        }
+    ],
+    "video7444": [
+        {
+            "DET": 2,
+            "NOUN": 3,
+            "ADP": 1,
+            "VERB": 1
+        }
+    ],
+    "video7445": [
+        {
+            "DET": 2,
+            "NOUN": 3,
+            "AUX": 1,
+            "VERB": 2,
+            "CCONJ": 1
+        }
+    ],
+    "video7461": [
+        {
+            "DET": 1,
+            "NOUN": 3,
+            "VERB": 1
+        }
+    ],
+    "video7462": [
+        {
+            "PRON": 1,
+            "VERB": 1,
+            "DET": 1,
+            "ADJ": 1,
+            "NOUN": 1
+        }
+    ],
+    "video7464": [
+        {
+            "DET": 2,
+            "NOUN": 6,
+            "VERB": 1,
+            "ADP": 1
+        }
+    ],
+    "video7466": [
+        {
+            "DET": 3,
+            "NOUN": 4,
+            "ADP": 2,
+            "VERB": 2
+        }
+    ],
+    "video7467": [
+        {
+            "PROPN": 1,
+            "NOUN": 3
+        }
+    ],
+    "video7468": [
+        {
+            "DET": 3,
+            "NOUN": 3,
+            "VERB": 1,
+            "ADP": 2
+        }
+    ],
+    "video7469": [
+        {
+            "DET": 3,
+            "NOUN": 4,
+            "ADP": 2,
+            "ADJ": 2,
+            "VERB": 2,
+            "PRON": 2,
+            "PART": 1
+        }
+    ],
+    "video7478": [
+        {
+            "DET": 1,
+            "NOUN": 3,
+            "AUX": 2,
+            "VERB": 1
+        }
+    ],
+    "video7491": [
+        {
+            "DET": 3,
+            "NOUN": 3,
+            "VERB": 1,
+            "ADP": 1
+        }
+    ],
+    "video7500": [
+        {
+            "DET": 2,
+            "NOUN": 3,
+            "VERB": 1,
+            "ADP": 2
+        }
+    ],
+    "video7501": [
+        {
+            "AUX": 2,
+            "PROPN": 1,
+            "VERB": 2,
+            "ADP": 2,
+            "DET": 2,
+            "NOUN": 4
+        }
+    ],
+    "video7502": [
+        {
+            "DET": 2,
+            "NOUN": 4,
+            "VERB": 2,
+            "SCONJ": 1,
+            "PART": 1,
+            "ADJ": 2,
+            "ADP": 1
+        }
+    ],
+    "video7506": [
+        {
+            "DET": 1,
+            "NOUN": 3,
+            "AUX": 1,
+            "VERB": 1,
+            "ADV": 1
+        }
+    ],
+    "video7528": [
+        {
+            "DET": 2,
+            "NOUN": 4,
+            "VERB": 2,
+            "CCONJ": 1,
+            "PRON": 1,
+            "AUX": 1
+        }
+    ],
+    "video7542": [
+        {
+            "DET": 3,
+            "NOUN": 5,
+            "VERB": 2,
+            "ADP": 3,
+            "CCONJ": 1
+        }
+    ],
+    "video7543": [
+        {
+            "DET": 1,
+            "NOUN": 2,
+            "ADP": 2,
+            "SCONJ": 1,
+            "PART": 1,
+            "VERB": 2
+        }
+    ],
+    "video7544": [
+        {
+            "DET": 2,
+            "NOUN": 2,
+            "VERB": 2,
+            "ADP": 1
+        }
+    ],
+    "video7545": [
+        {
+            "DET": 2,
+            "NOUN": 2,
+            "AUX": 1,
+            "VERB": 1
+        }
+    ],
+    "video7546": [
+        {
+            "DET": 2,
+            "NOUN": 2,
+            "CCONJ": 1,
+            "AUX": 1,
+            "VERB": 1,
+            "ADP": 1,
+            "PRON": 1
+        }
+    ],
+    "video7547": [
+        {
+            "PRON": 3,
+            "VERB": 2,
+            "DET": 2,
+            "NOUN": 3,
+            "ADP": 1,
+            "PROPN": 1,
+            "AUX": 1,
+            "ADJ": 2
+        }
+    ],
+    "video7548": [
+        {
+            "NOUN": 3,
+            "AUX": 1,
+            "VERB": 1,
+            "ADP": 2,
+            "DET": 1
+        }
+    ],
+    "video7549": [
+        {
+            "DET": 1,
+            "ADJ": 1,
+            "NOUN": 4,
+            "PRON": 3,
+            "VERB": 3,
+            "ADP": 2,
+            "CCONJ": 1,
+            "PROPN": 2
+        }
+    ],
+    "video7552": [
+        {
+            "PRON": 1,
+            "AUX": 1,
+            "ADP": 1,
+            "DET": 1,
+            "NOUN": 2
+        }
+    ],
+    "video7554": [
+        {
+            "DET": 2,
+            "NOUN": 3,
+            "VERB": 1,
+            "ADP": 2
+        }
+    ],
+    "video7556": [
+        {
+            "NOUN": 2,
+            "AUX": 1,
+            "VERB": 1
+        }
+    ],
+    "video7558": [
+        {
+            "NUM": 1,
+            "NOUN": 4,
+            "VERB": 2,
+            "DET": 2,
+            "ADJ": 1,
+            "PRON": 1,
+            "CCONJ": 1
+        }
+    ],
+    "video7559": [
+        {
+            "DET": 2,
+            "NOUN": 2,
+            "AUX": 1,
+            "VERB": 1
+        }
+    ],
+    "video7560": [
+        {
+            "NOUN": 4,
+            "VERB": 2,
+            "ADP": 3,
+            "CCONJ": 1,
+            "PRON": 2
+        }
+    ],
+    "video7561": [
+        {
+            "VERB": 1,
+            "ADP": 1,
+            "NOUN": 3
+        }
+    ],
+    "video7562": [
+        {
+            "NOUN": 4,
+            "ADP": 2,
+            "PROPN": 2,
+            "PART": 1,
+            "AUX": 1,
+            "VERB": 1
+        }
+    ],
+    "video7563": [
+        {
+            "DET": 1,
+            "NOUN": 2,
+            "AUX": 1,
+            "VERB": 1,
+            "ADP": 1
+        }
+    ],
+    "video7564": [
+        {
+            "DET": 3,
+            "NOUN": 4,
+            "VERB": 1,
+            "ADP": 2,
+            "ADJ": 1
+        }
+    ],
+    "video7565": [
+        {
+            "ADP": 2,
+            "DET": 3,
+            "NOUN": 5,
+            "AUX": 1,
+            "VERB": 1
+        }
+    ],
+    "video7566": [
+        {
+            "DET": 1,
+            "NOUN": 3,
+            "VERB": 2,
+            "SCONJ": 1,
+            "PRON": 1,
+            "ADJ": 1,
+            "ADP": 1
+        }
+    ],
+    "video7567": [
+        {
+            "DET": 2,
+            "NOUN": 3,
+            "VERB": 1,
+            "ADP": 2
+        }
+    ],
+    "video7568": [
+        {
+            "DET": 7,
+            "NOUN": 7,
+            "ADP": 4,
+            "PROPN": 2,
+            "AUX": 1,
+            "VERB": 5,
+            "ADJ": 3,
+            "SCONJ": 1
+        }
+    ],
+    "video7569": [
+        {
+            "DET": 1,
+            "NOUN": 1,
+            "AUX": 1,
+            "VERB": 1
+        }
+    ],
+    "video7570": [
+        {
+            "DET": 2,
+            "ADV": 1,
+            "ADJ": 1,
+            "NOUN": 2,
+            "AUX": 1,
+            "VERB": 2,
+            "CCONJ": 1
+        }
+    ],
+    "video7571": [
+        {
+            "DET": 2,
+            "NOUN": 4,
+            "ADP": 3,
+            "ADJ": 1,
+            "SCONJ": 1,
+            "VERB": 1
+        }
+    ],
+    "video7572": [
+        {
+            "ADJ": 1,
+            "NOUN": 3
+        }
+    ],
+    "video7573": [
+        {
+            "DET": 1,
+            "NOUN": 2,
+            "ADP": 1,
+            "ADJ": 2,
+            "VERB": 2,
+            "ADV": 1
+        }
+    ],
+    "video7574": [
+        {
+            "PROPN": 3,
+            "VERB": 2,
+            "CCONJ": 1,
+            "NOUN": 1
+        }
+    ],
+    "video7575": [
+        {
+            "DET": 2,
+            "NOUN": 2,
+            "VERB": 1,
+            "ADP": 1
+        }
+    ],
+    "video7576": [
+        {
+            "NOUN": 2,
+            "AUX": 2,
+            "VERB": 1,
+            "ADP": 1,
+            "DET": 1
+        }
+    ],
+    "video7577": [
+        {
+            "DET": 3,
+            "NOUN": 4,
+            "VERB": 2,
+            "ADP": 1
+        }
+    ],
+    "video7578": [
+        {
+            "NOUN": 2,
+            "AUX": 1,
+            "ADP": 1,
+            "VERB": 1
+        }
+    ],
+    "video7579": [
+        {
+            "DET": 3,
+            "NOUN": 4,
+            "VERB": 2,
+            "ADJ": 3,
+            "CCONJ": 1,
+            "AUX": 1,
+            "ADP": 1
+        }
+    ],
+    "video7580": [
+        {
+            "DET": 1,
+            "NOUN": 4,
+            "VERB": 1,
+            "ADP": 1,
+            "CCONJ": 1
+        }
+    ],
+    "video7581": [
+        {
+            "NOUN": 2,
+            "AUX": 1,
+            "VERB": 1,
+            "ADP": 1,
+            "DET": 1
+        }
+    ],
+    "video7583": [
+        {
+            "DET": 1,
+            "NOUN": 3,
+            "VERB": 2,
+            "PART": 2,
+            "ADP": 2
+        }
+    ],
+    "video7586": [
+        {
+            "NOUN": 5,
+            "VERB": 1,
+            "ADP": 2,
+            "DET": 2
+        }
+    ],
+    "video7587": [
+        {
+            "NUM": 1,
+            "NOUN": 3,
+            "ADP": 1,
+            "DET": 1
+        }
+    ],
+    "video7588": [
+        {
+            "DET": 2,
+            "NOUN": 5,
+            "VERB": 1,
+            "PRON": 2,
+            "ADJ": 1,
+            "ADP": 2
+        }
+    ],
+    "video7589": [
+        {
+            "DET": 2,
+            "NOUN": 2,
+            "AUX": 1,
+            "VERB": 1,
+            "ADP": 1
+        }
+    ],
+    "video7590": [
+        {
+            "DET": 1,
+            "ADJ": 1,
+            "NOUN": 2,
+            "ADP": 2,
+            "NUM": 1,
+            "SCONJ": 1,
+            "PRON": 1,
+            "AUX": 1,
+            "VERB": 2
+        }
+    ],
+    "video7591": [
+        {
+            "DET": 2,
+            "NOUN": 4,
+            "AUX": 1,
+            "VERB": 1,
+            "ADP": 1
+        }
+    ],
+    "video7592": [
+        {
+            "DET": 3,
+            "ADJ": 2,
+            "VERB": 2,
+            "NOUN": 7,
+            "ADP": 2,
+            "AUX": 2,
+            "CCONJ": 1,
+            "PART": 1,
+            "ADV": 1
+        }
+    ],
+    "video7593": [
+        {
+            "DET": 3,
+            "NOUN": 3,
+            "ADP": 3,
+            "AUX": 1,
+            "VERB": 1,
+            "ADJ": 1
+        }
+    ],
+    "video7594": [
+        {
+            "NOUN": 3,
+            "AUX": 2,
+            "VERB": 1,
+            "ADP": 2,
+            "DET": 1
+        }
+    ],
+    "video7596": [
+        {
+            "DET": 4,
+            "NOUN": 4,
+            "CCONJ": 1,
+            "AUX": 1,
+            "VERB": 1,
+            "ADP": 1
+        }
+    ],
+    "video7597": [
+        {
+            "DET": 1,
+            "NOUN": 2,
+            "VERB": 2,
+            "SCONJ": 1,
+            "PRON": 1
+        }
+    ],
+    "video7598": [
+        {
+            "DET": 2,
+            "NOUN": 2,
+            "AUX": 1,
+            "VERB": 1,
+            "ADP": 1
+        }
+    ],
+    "video7599": [
+        {
+            "NOUN": 3,
+            "VERB": 1,
+            "ADP": 1,
+            "DET": 1
+        }
+    ],
+    "video7610": [
+        {
+            "DET": 1,
+            "PROPN": 1,
+            "NOUN": 3,
+            "VERB": 3,
+            "AUX": 1,
+            "PART": 1,
+            "ADJ": 1
+        }
+    ],
+    "video7613": [
+        {
+            "DET": 6,
+            "ADJ": 4,
+            "NOUN": 8,
+            "VERB": 2,
+            "CCONJ": 1,
+            "AUX": 1,
+            "ADP": 4,
+            "ADV": 1
+        }
+    ],
+    "video7614": [
+        {
+            "DET": 3,
+            "NOUN": 3,
+            "VERB": 1,
+            "ADP": 2
+        }
+    ],
+    "video7615": [
+        {
+            "DET": 1,
+            "NOUN": 2,
+            "AUX": 1,
+            "VERB": 1,
+            "ADP": 1
+        }
+    ],
+    "video7616": [
+        {
+            "DET": 1,
+            "ADJ": 1,
+            "NOUN": 2,
+            "VERB": 1,
+            "ADV": 1
+        }
+    ],
+    "video7619": [
+        {
+            "NOUN": 2,
+            "AUX": 1,
+            "VERB": 1,
+            "ADP": 1,
+            "DET": 1
+        }
+    ],
+    "video7632": [
+        {
+            "DET": 2,
+            "NOUN": 4,
+            "VERB": 1,
+            "ADP": 1,
+            "NUM": 1
+        }
+    ],
+    "video7649": [
+        {
+            "PRON": 1,
+            "VERB": 2,
+            "DET": 1,
+            "NOUN": 2,
+            "ADV": 1,
+            "ADP": 1
+        }
+    ],
+    "video7669": [
+        {
+            "NUM": 1,
+            "NOUN": 4,
+            "VERB": 1,
+            "DET": 1,
+            "ADP": 1
+        }
+    ],
+    "video7680": [
+        {
+            "DET": 2,
+            "ADJ": 2,
+            "NOUN": 2,
+            "VERB": 1,
+            "PRON": 2,
+            "AUX": 1,
+            "ADP": 1
+        }
+    ],
+    "video7681": [
+        {
+            "DET": 3,
+            "NOUN": 5,
+            "ADP": 4,
+            "AUX": 1,
+            "VERB": 1
+        }
+    ],
+    "video7682": [
+        {
+            "NOUN": 3,
+            "CCONJ": 1,
+            "AUX": 1,
+            "VERB": 1
+        }
+    ],
+    "video7684": [
+        {
+            "DET": 2,
+            "NOUN": 5,
+            "VERB": 2,
+            "ADP": 2,
+            "PRON": 2
+        }
+    ],
+    "video7685": [
+        {
+            "NOUN": 4,
+            "VERB": 1,
+            "DET": 1,
+            "ADP": 1
+        }
+    ],
+    "video7686": [
+        {
+            "DET": 4,
+            "NOUN": 6,
+            "VERB": 1,
+            "ADP": 4,
+            "CCONJ": 1,
+            "ADJ": 1
+        }
+    ],
+    "video7687": [
+        {
+            "DET": 1,
+            "NOUN": 2,
+            "VERB": 1,
+            "PRON": 1
+        }
+    ],
+    "video7688": [
+        {
+            "NUM": 2,
+            "ADP": 4,
+            "NOUN": 4,
+            "VERB": 1,
+            "DET": 1,
+            "ADJ": 1
+        }
+    ],
+    "video7693": [
+        {
+            "PRON": 1,
+            "AUX": 1,
+            "DET": 1,
+            "NOUN": 3
+        }
+    ],
+    "video7695": [
+        {
+            "DET": 2,
+            "NOUN": 2,
+            "AUX": 1,
+            "VERB": 1,
+            "PRON": 1,
+            "ADP": 1
+        }
+    ],
+    "video7698": [
+        {
+            "NUM": 1,
+            "NOUN": 3,
+            "AUX": 1,
+            "VERB": 1,
+            "ADP": 1,
+            "DET": 1
+        }
+    ],
+    "video7699": [
+        {
+            "DET": 1,
+            "NOUN": 5,
+            "ADP": 1,
+            "AUX": 1,
+            "VERB": 2,
+            "SCONJ": 1,
+            "PART": 1
+        }
+    ],
+    "video7701": [
+        {
+            "NOUN": 4,
+            "VERB": 3,
+            "CCONJ": 1,
+            "ADP": 1,
+            "DET": 1
+        }
+    ],
+    "video7704": [
+        {
+            "DET": 2,
+            "NOUN": 2,
+            "ADP": 1,
+            "ADV": 1,
+            "ADJ": 1
+        }
+    ],
+    "video7710": [
+        {
+            "DET": 1,
+            "NOUN": 3,
+            "VERB": 1
+        }
+    ],
+    "video7723": [
+        {
+            "DET": 3,
+            "NOUN": 5,
+            "VERB": 2,
+            "ADJ": 1,
+            "CCONJ": 1,
+            "ADP": 1,
+            "SCONJ": 1
+        }
+    ],
+    "video7724": [
+        {
+            "DET": 1,
+            "NOUN": 4,
+            "VERB": 1,
+            "ADP": 2,
+            "CCONJ": 1
+        }
+    ],
+    "video7725": [
+        {
+            "ADJ": 1,
+            "NOUN": 8,
+            "VERB": 3,
+            "ADP": 4,
+            "DET": 4,
+            "CCONJ": 1,
+            "PRON": 1,
+            "SCONJ": 1
+        }
+    ],
+    "video7726": [
+        {
+            "DET": 1,
+            "NOUN": 2,
+            "AUX": 1,
+            "VERB": 2,
+            "CCONJ": 1
+        }
+    ],
+    "video7728": [
+        {
+            "DET": 3,
+            "NOUN": 6,
+            "VERB": 1,
+            "PRON": 1,
+            "ADP": 3,
+            "ADJ": 1
+        }
+    ],
+    "video7730": [
+        {
+            "ADJ": 2,
+            "NOUN": 5,
+            "ADP": 3,
+            "AUX": 1,
+            "VERB": 1,
+            "DET": 2
+        }
+    ],
+    "video7731": [
+        {
+            "PROPN": 3,
+            "NOUN": 3,
+            "VERB": 1,
+            "CCONJ": 1,
+            "PRON": 1
+        }
+    ],
+    "video7732": [
+        {
+            "VERB": 2,
+            "NOUN": 4,
+            "CCONJ": 2,
+            "ADP": 4
+        }
+    ],
+    "video7733": [
+        {
+            "DET": 1,
+            "NOUN": 2,
+            "AUX": 1,
+            "VERB": 1,
+            "ADP": 1
+        }
+    ],
+    "video7741": [
+        {
+            "DET": 2,
+            "NOUN": 6,
+            "ADP": 2,
+            "CCONJ": 1
+        }
+    ],
+    "video7744": [
+        {
+            "DET": 3,
+            "NOUN": 3,
+            "VERB": 1,
+            "ADP": 2,
+            "ADV": 1
+        }
+    ],
+    "video7747": [
+        {
+            "PRON": 1,
+            "AUX": 1,
+            "DET": 2,
+            "NOUN": 4,
+            "ADP": 2,
+            "VERB": 1,
+            "ADJ": 1
+        }
+    ],
+    "video7751": [
+        {
+            "NUM": 1,
+            "NOUN": 2,
+            "ADJ": 1,
+            "VERB": 2,
+            "ADP": 2,
+            "PROPN": 2
+        }
+    ],
+    "video7752": [
+        {
+            "DET": 2,
+            "NOUN": 3,
+            "VERB": 2,
+            "ADP": 1,
+            "CCONJ": 1
+        }
+    ],
+    "video7753": [
+        {
+            "DET": 2,
+            "NOUN": 5,
+            "AUX": 1,
+            "VERB": 1,
+            "PRON": 1,
+            "ADP": 1,
+            "ADJ": 1
+        }
+    ],
+    "video7754": [
+        {
+            "PRON": 1,
+            "AUX": 1,
+            "DET": 2,
+            "NOUN": 3,
+            "ADP": 1,
+            "ADJ": 1
+        }
+    ],
+    "video7755": [
+        {
+            "PRON": 1,
+            "VERB": 2,
+            "ADP": 1,
+            "DET": 2,
+            "ADJ": 1,
+            "NOUN": 2
+        }
+    ],
+    "video7756": [
+        {
+            "DET": 1,
+            "NOUN": 2,
+            "ADP": 1,
+            "AUX": 1,
+            "VERB": 1
+        }
+    ],
+    "video7757": [
+        {
+            "DET": 2,
+            "NOUN": 9,
+            "ADP": 4,
+            "ADJ": 2,
+            "SCONJ": 1,
+            "AUX": 2,
+            "VERB": 1
+        }
+    ],
+    "video7763": [
+        {
+            "NOUN": 2,
+            "AUX": 1,
+            "VERB": 1
+        }
+    ],
+    "video7765": [
+        {
+            "DET": 2,
+            "NOUN": 2,
+            "AUX": 1,
+            "VERB": 1
+        }
+    ],
+    "video7766": [
+        {
+            "DET": 2,
+            "NOUN": 4,
+            "AUX": 1,
+            "VERB": 2,
+            "SCONJ": 1,
+            "PRON": 1
+        }
+    ],
+    "video7767": [
+        {
+            "DET": 1,
+            "NOUN": 2,
+            "ADP": 1
+        }
+    ],
+    "video7768": [
+        {
+            "DET": 2,
+            "NOUN": 4,
+            "ADP": 2
+        }
+    ],
+    "video7771": [
+        {
+            "DET": 3,
+            "NOUN": 4,
+            "AUX": 1,
+            "VERB": 2,
+            "PART": 1,
+            "ADP": 1
+        }
+    ],
+    "video7772": [
+        {
+            "DET": 1,
+            "NOUN": 2,
+            "VERB": 1
+        }
+    ],
+    "video7776": [
+        {
+            "NUM": 2,
+            "NOUN": 6,
+            "AUX": 1,
+            "VERB": 3,
+            "ADP": 2,
+            "DET": 2,
+            "CCONJ": 1,
+            "ADV": 1,
+            "ADJ": 2,
+            "PART": 1
+        }
+    ],
+    "video7780": [
+        {
+            "DET": 2,
+            "NOUN": 3,
+            "VERB": 1,
+            "ADP": 1,
+            "ADJ": 1
+        }
+    ],
+    "video7782": [
+        {
+            "DET": 1,
+            "NOUN": 2,
+            "VERB": 1,
+            "ADP": 1,
+            "PRON": 1,
+            "ADJ": 1
+        }
+    ],
+    "video7783": [
+        {
+            "ADV": 1,
+            "ADJ": 2,
+            "NOUN": 3,
+            "ADP": 2,
+            "AUX": 1,
+            "VERB": 1,
+            "DET": 1
+        }
+    ],
+    "video7785": [
+        {
+            "NOUN": 2,
+            "VERB": 1,
+            "DET": 1
+        }
+    ],
+    "video7786": [
+        {
+            "DET": 1,
+            "NOUN": 2,
+            "ADP": 1,
+            "VERB": 1
+        }
+    ],
+    "video7787": [
+        {
+            "ADJ": 1,
+            "NOUN": 3,
+            "ADP": 1,
+            "AUX": 1,
+            "VERB": 1
+        }
+    ],
+    "video7788": [
+        {
+            "NUM": 1,
+            "NOUN": 2,
+            "AUX": 1,
+            "VERB": 1,
+            "ADP": 1,
+            "DET": 1
+        }
+    ],
+    "video7789": [
+        {
+            "DET": 1,
+            "NOUN": 3,
+            "ADP": 1,
+            "AUX": 1,
+            "VERB": 1
+        }
+    ],
+    "video7790": [
+        {
+            "DET": 2,
+            "NOUN": 3,
+            "ADP": 2,
+            "AUX": 1,
+            "VERB": 1,
+            "ADV": 1
+        }
+    ],
+    "video7791": [
+        {
+            "NUM": 1,
+            "NOUN": 2,
+            "AUX": 1,
+            "VERB": 1,
+            "DET": 1
+        }
+    ],
+    "video7792": [
+        {
+            "PROPN": 1,
+            "NOUN": 3,
+            "ADP": 1,
+            "VERB": 1
+        }
+    ],
+    "video7793": [
+        {
+            "NOUN": 4,
+            "AUX": 1,
+            "VERB": 4,
+            "CCONJ": 1,
+            "DET": 3,
+            "PART": 1,
+            "SCONJ": 1,
+            "PRON": 1
+        }
+    ],
+    "video7794": [
+        {
+            "DET": 1,
+            "ADJ": 1,
+            "NOUN": 3
+        }
+    ],
+    "video7795": [
+        {
+            "DET": 2,
+            "NOUN": 3,
+            "ADP": 3,
+            "SCONJ": 1,
+            "PART": 1,
+            "PROPN": 1,
+            "CCONJ": 1,
+            "ADJ": 1
+        }
+    ],
+    "video7796": [
+        {
+            "NOUN": 3,
+            "VERB": 1,
+            "ADP": 1,
+            "DET": 1
+        }
+    ],
+    "video7797": [
+        {
+            "DET": 2,
+            "NOUN": 3,
+            "AUX": 1,
+            "VERB": 1,
+            "ADP": 1
+        }
+    ],
+    "video7798": [
+        {
+            "NOUN": 3,
+            "CCONJ": 1,
+            "VERB": 1,
+            "ADP": 1,
+            "DET": 1
+        }
+    ],
+    "video7799": [
+        {
+            "DET": 2,
+            "NOUN": 4,
+            "VERB": 2,
+            "ADP": 3,
+            "ADJ": 1,
+            "CCONJ": 1,
+            "PRON": 1
+        }
+    ],
+    "video7820": [
+        {
+            "DET": 2,
+            "NOUN": 3,
+            "VERB": 2,
+            "ADP": 1,
+            "SCONJ": 1,
+            "PART": 1,
+            "PROPN": 2
+        }
+    ],
+    "video7822": [
+        {
+            "ADJ": 1,
+            "NOUN": 3,
+            "CCONJ": 1,
+            "AUX": 1,
+            "VERB": 2,
+            "ADV": 2,
+            "ADP": 1,
+            "DET": 1
+        }
+    ],
+    "video7823": [
+        {
+            "DET": 1,
+            "ADJ": 1,
+            "NOUN": 2,
+            "AUX": 1,
+            "VERB": 1,
+            "ADP": 1
+        }
+    ],
+    "video7825": [
+        {
+            "VERB": 1,
+            "CCONJ": 2,
+            "NOUN": 3,
+            "NUM": 2
+        }
+    ],
+    "video7826": [
+        {
+            "DET": 2,
+            "NOUN": 4,
+            "AUX": 1,
+            "VERB": 2,
+            "CCONJ": 1
+        }
+    ],
+    "video7827": [
+        {
+            "NOUN": 3,
+            "AUX": 1,
+            "VERB": 2,
+            "ADP": 1,
+            "DET": 1
+        }
+    ],
+    "video7828": [
+        {
+            "DET": 5,
+            "NOUN": 6,
+            "VERB": 1,
+            "ADP": 5,
+            "ADJ": 1,
+            "PRON": 1
+        }
+    ],
+    "video7829": [
+        {
+            "PRON": 1,
+            "AUX": 1,
+            "VERB": 1,
+            "DET": 2,
+            "NOUN": 3,
+            "ADP": 1
+        }
+    ],
+    "video7830": [
+        {
+            "PRON": 1,
+            "AUX": 1,
+            "ADP": 1,
+            "DET": 1,
+            "ADJ": 1,
+            "NOUN": 3,
+            "PART": 1
+        }
+    ],
+    "video7831": [
+        {
+            "DET": 2,
+            "ADJ": 2,
+            "NOUN": 2,
+            "AUX": 1,
+            "VERB": 1
+        }
+    ],
+    "video7832": [
+        {
+            "DET": 3,
+            "NOUN": 3,
+            "CCONJ": 1,
+            "VERB": 1,
+            "ADP": 2,
+            "ADJ": 1
+        }
+    ],
+    "video7833": [
+        {
+            "DET": 1,
+            "NOUN": 2,
+            "AUX": 1,
+            "VERB": 1,
+            "ADP": 1
+        }
+    ],
+    "video7834": [
+        {
+            "DET": 1,
+            "NOUN": 5,
+            "ADP": 3,
+            "VERB": 2,
+            "ADJ": 1,
+            "PROPN": 1
+        }
+    ],
+    "video7835": [
+        {
+            "NUM": 1,
+            "NOUN": 2,
+            "VERB": 1,
+            "ADJ": 1
+        }
+    ],
+    "video7836": [
+        {
+            "DET": 2,
+            "NOUN": 2,
+            "ADP": 2,
+            "CCONJ": 1,
+            "VERB": 1
+        }
+    ],
+    "video7837": [
+        {
+            "DET": 2,
+            "NOUN": 3,
+            "VERB": 2,
+            "ADP": 2,
+            "PROPN": 1,
+            "CCONJ": 1,
+            "ADJ": 1
+        }
+    ],
+    "video7838": [
+        {
+            "DET": 3,
+            "NOUN": 5,
+            "AUX": 1,
+            "VERB": 1,
+            "ADP": 3,
+            "ADJ": 1
+        }
+    ],
+    "video7839": [
+        {
+            "PRON": 1,
+            "AUX": 1,
+            "DET": 1,
+            "ADJ": 1,
+            "NOUN": 2
+        }
+    ],
+    "video7843": [
+        {
+            "DET": 2,
+            "NOUN": 3,
+            "VERB": 2,
+            "SCONJ": 1,
+            "PRON": 1,
+            "AUX": 1,
+            "ADP": 1
+        }
+    ],
+    "video7844": [
+        {
+            "PROPN": 1,
+            "VERB": 1,
+            "ADP": 2,
+            "NOUN": 3,
+            "ADV": 1,
+            "ADJ": 2
+        }
+    ],
+    "video7845": [
+        {
+            "DET": 2,
+            "NOUN": 5,
+            "VERB": 2,
+            "ADP": 2,
+            "CCONJ": 1,
+            "AUX": 1
+        }
+    ],
+    "video7849": [
+        {
+            "DET": 2,
+            "ADJ": 3,
+            "NOUN": 5,
+            "VERB": 2,
+            "ADP": 2
+        }
+    ],
+    "video7854": [
+        {
+            "DET": 3,
+            "NOUN": 4,
+            "VERB": 1,
+            "ADV": 1,
+            "ADP": 2
+        }
+    ],
+    "video7890": [
+        {
+            "NOUN": 3,
+            "AUX": 1,
+            "VERB": 1,
+            "ADP": 2,
+            "DET": 2,
+            "ADJ": 1
+        }
+    ],
+    "video7898": [
+        {
+            "DET": 3,
+            "NOUN": 3,
+            "ADP": 2,
+            "AUX": 2,
+            "VERB": 1
+        }
+    ],
+    "video7900": [
+        {
+            "DET": 1,
+            "NOUN": 2,
+            "VERB": 1,
+            "ADP": 1,
+            "PROPN": 1
+        }
+    ],
+    "video7902": [
+        {
+            "DET": 2,
+            "NOUN": 2,
+            "VERB": 2,
+            "ADP": 1
+        }
+    ],
+    "video7909": [
+        {
+            "DET": 2,
+            "NOUN": 2,
+            "VERB": 1
+        }
+    ],
+    "video7910": [
+        {
+            "DET": 3,
+            "NOUN": 3,
+            "VERB": 1,
+            "ADP": 2
+        }
+    ],
+    "video7911": [
+        {
+            "DET": 3,
+            "NOUN": 4,
+            "AUX": 1,
+            "VERB": 1,
+            "ADP": 1
+        }
+    ],
+    "video7912": [
+        {
+            "PROPN": 1,
+            "AUX": 1,
+            "VERB": 1,
+            "ADP": 1,
+            "DET": 1,
+            "NOUN": 1
+        }
+    ],
+    "video7913": [
+        {
+            "DET": 1,
+            "NOUN": 2,
+            "VERB": 2,
+            "SCONJ": 1,
+            "PART": 1,
+            "PRON": 1,
+            "ADP": 1
+        }
+    ],
+    "video7914": [
+        {
+            "DET": 1,
+            "NOUN": 2,
+            "CCONJ": 1,
+            "ADJ": 2,
+            "AUX": 1,
+            "VERB": 1
+        }
+    ],
+    "video7915": [
+        {
+            "DET": 2,
+            "NOUN": 4,
+            "ADP": 1,
+            "CCONJ": 1,
+            "ADJ": 1,
+            "VERB": 1
+        }
+    ],
+    "video7916": [
+        {
+            "NOUN": 2,
+            "AUX": 1,
+            "VERB": 1
+        }
+    ],
+    "video7917": [
+        {
+            "PROPN": 2,
+            "VERB": 1,
+            "DET": 1,
+            "NOUN": 2,
+            "ADP": 1,
+            "PRON": 1
+        }
+    ],
+    "video7919": [
+        {
+            "DET": 3,
+            "NOUN": 4,
+            "AUX": 1,
+            "VERB": 2,
+            "CCONJ": 1,
+            "ADP": 2
+        }
+    ],
+    "video7939": [
+        {
+            "DET": 2,
+            "NOUN": 3,
+            "CCONJ": 2,
+            "VERB": 2,
+            "ADV": 1,
+            "ADP": 1
+        }
+    ],
+    "video7946": [
+        {
+            "DET": 2,
+            "NOUN": 3,
+            "VERB": 3,
+            "ADP": 1,
+            "ADJ": 2,
+            "CCONJ": 1,
+            "AUX": 1
+        }
+    ],
+    "video7947": [
+        {
+            "DET": 3,
+            "NOUN": 7,
+            "ADP": 2,
+            "VERB": 1
+        }
+    ],
+    "video7960": [
+        {
+            "DET": 2,
+            "NOUN": 2,
+            "AUX": 1,
+            "VERB": 2,
+            "ADV": 1,
+            "CCONJ": 1
+        }
+    ],
+    "video7961": [
+        {
+            "DET": 1,
+            "NOUN": 4,
+            "ADP": 2,
+            "CCONJ": 1,
+            "AUX": 1,
+            "VERB": 1
+        }
+    ],
+    "video7962": [
+        {
+            "DET": 3,
+            "NOUN": 5,
+            "VERB": 2,
+            "PART": 1,
+            "ADP": 2,
+            "PRON": 1,
+            "SCONJ": 1
+        }
+    ],
+    "video7963": [
+        {
+            "DET": 2,
+            "NOUN": 5,
+            "VERB": 1,
+            "ADP": 2
+        }
+    ],
+    "video7964": [
+        {
+            "DET": 2,
+            "NOUN": 3,
+            "AUX": 1,
+            "VERB": 1,
+            "ADP": 2
+        }
+    ],
+    "video7965": [
+        {
+            "NOUN": 4,
+            "VERB": 1,
+            "ADP": 2,
+            "DET": 3
+        }
+    ],
+    "video7966": [
+        {
+            "NOUN": 1,
+            "AUX": 2,
+            "VERB": 1
+        }
+    ],
+    "video7967": [
+        {
+            "DET": 2,
+            "NOUN": 4,
+            "AUX": 1,
+            "VERB": 1,
+            "ADP": 1
+        }
+    ],
+    "video7968": [
+        {
+            "DET": 2,
+            "ADJ": 3,
+            "NOUN": 2,
+            "VERB": 2,
+            "CCONJ": 1
+        }
+    ],
+    "video7969": [
+        {
+            "NOUN": 2,
+            "VERB": 1,
+            "ADP": 1
+        }
+    ],
+    "video7970": [
+        {
+            "NUM": 1,
+            "NOUN": 3,
+            "ADP": 1,
+            "DET": 1
+        }
+    ],
+    "video7972": [
+        {
+            "DET": 2,
+            "NOUN": 3,
+            "VERB": 2,
+            "SCONJ": 1
+        }
+    ],
+    "video7973": [
+        {
+            "PRON": 1,
+            "AUX": 1,
+            "VERB": 1,
+            "NOUN": 1
+        }
+    ],
+    "video7974": [
+        {
+            "DET": 2,
+            "NOUN": 3,
+            "AUX": 1,
+            "VERB": 1,
+            "ADP": 1
+        }
+    ],
+    "video7976": [
+        {
+            "DET": 2,
+            "ADJ": 1,
+            "NOUN": 2,
+            "VERB": 1,
+            "ADP": 2
+        }
+    ],
+    "video7977": [
+        {
+            "PRON": 1,
+            "AUX": 1,
+            "VERB": 1,
+            "NOUN": 1
+        }
+    ],
+    "video7978": [
+        {
+            "DET": 2,
+            "NOUN": 3,
+            "ADP": 3,
+            "ADJ": 1,
+            "AUX": 1,
+            "VERB": 2,
+            "PROPN": 1
+        }
+    ],
+    "video7979": [
+        {
+            "NOUN": 2,
+            "VERB": 1,
+            "ADP": 1,
+            "DET": 1
+        }
+    ],
+    "video8010": [
+        {
+            "PROPN": 1,
+            "NOUN": 2,
+            "AUX": 1,
+            "ADP": 1,
+            "DET": 1
+        }
+    ],
+    "video8011": [
+        {
+            "DET": 1,
+            "NOUN": 3,
+            "VERB": 1,
+            "ADP": 1,
+            "CCONJ": 1,
+            "PRON": 1
+        }
+    ],
+    "video8012": [
+        {
+            "DET": 3,
+            "NOUN": 3,
+            "VERB": 2,
+            "ADP": 1,
+            "CCONJ": 1
+        }
+    ],
+    "video8013": [
+        {
+            "DET": 1,
+            "NOUN": 4,
+            "VERB": 1,
+            "ADP": 1
+        }
+    ],
+    "video8014": [
+        {
+            "DET": 1,
+            "NOUN": 4,
+            "ADP": 2,
+            "AUX": 1,
+            "VERB": 2,
+            "SCONJ": 1,
+            "PRON": 1
+        }
+    ],
+    "video8016": [
+        {
+            "DET": 3,
+            "NOUN": 3,
+            "CCONJ": 1,
+            "AUX": 1,
+            "ADP": 1
+        }
+    ],
+    "video8018": [
+        {
+            "DET": 1,
+            "ADJ": 1,
+            "NOUN": 2
+        }
+    ],
+    "video8022": [
+        {
+            "DET": 2,
+            "PROPN": 6,
+            "ADP": 4,
+            "NOUN": 4,
+            "VERB": 3,
+            "CCONJ": 1,
+            "PRON": 1,
+            "AUX": 1
+        }
+    ],
+    "video8025": [
+        {
+            "DET": 1,
+            "ADJ": 2,
+            "NOUN": 2,
+            "ADP": 1,
+            "PROPN": 2
+        }
+    ],
+    "video8027": [
+        {
+            "DET": 1,
+            "NOUN": 2,
+            "AUX": 1,
+            "VERB": 1
+        }
+    ],
+    "video8044": [
+        {
+            "DET": 3,
+            "NOUN": 3,
+            "VERB": 2,
+            "CCONJ": 1,
+            "ADV": 1
+        }
+    ],
+    "video8048": [
+        {
+            "PROPN": 2,
+            "PART": 1,
+            "NOUN": 2,
+            "VERB": 1,
+            "ADP": 2
+        }
+    ],
+    "video8049": [
+        {
+            "DET": 2,
+            "NOUN": 2,
+            "AUX": 1,
+            "VERB": 1,
+            "ADP": 2
+        }
+    ],
+    "video8056": [
+        {
+            "VERB": 2,
+            "NOUN": 1,
+            "AUX": 2
+        }
+    ],
+    "video8057": [
+        {
+            "DET": 2,
+            "NOUN": 2,
+            "VERB": 2,
+            "PART": 1
+        }
+    ],
+    "video8061": [
+        {
+            "NOUN": 5,
+            "ADP": 1,
+            "PROPN": 1
+        }
+    ],
+    "video8067": [
+        {
+            "NOUN": 2,
+            "VERB": 2,
+            "CCONJ": 1
+        }
+    ],
+    "video8068": [
+        {
+            "DET": 4,
+            "NOUN": 4,
+            "ADP": 2
+        }
+    ],
+    "video8069": [
+        {
+            "DET": 2,
+            "NOUN": 2,
+            "AUX": 1,
+            "VERB": 1,
+            "ADP": 1
+        }
+    ],
+    "video8070": [
+        {
+            "NOUN": 4,
+            "VERB": 1,
+            "DET": 2,
+            "ADP": 1
+        }
+    ],
+    "video8071": [
+        {
+            "DET": 3,
+            "NOUN": 4,
+            "AUX": 1,
+            "VERB": 1,
+            "ADP": 2
+        }
+    ],
+    "video8072": [
+        {
+            "DET": 1,
+            "NOUN": 2,
+            "VERB": 1,
+            "ADP": 1,
+            "ADJ": 1
+        }
+    ],
+    "video8073": [
+        {
+            "DET": 3,
+            "NOUN": 5,
+            "SCONJ": 1,
+            "PRON": 1,
+            "VERB": 2,
+            "ADP": 1,
+            "AUX": 1,
+            "ADJ": 1
+        }
+    ],
+    "video8074": [
+        {
+            "DET": 2,
+            "NOUN": 2,
+            "VERB": 1,
+            "ADP": 1
+        }
+    ],
+    "video8075": [
+        {
+            "NOUN": 2,
+            "ADP": 1,
+            "ADJ": 1
+        }
+    ],
+    "video8076": [
+        {
+            "DET": 2,
+            "NOUN": 3,
+            "ADP": 1
+        }
+    ],
+    "video8077": [
+        {
+            "DET": 2,
+            "NOUN": 3,
+            "VERB": 1
+        }
+    ],
+    "video8078": [
+        {
+            "DET": 2,
+            "NOUN": 6,
+            "ADP": 1,
+            "PRON": 2,
+            "CCONJ": 1,
+            "AUX": 1,
+            "VERB": 2,
+            "PART": 1
+        }
+    ],
+    "video8079": [
+        {
+            "ADJ": 1,
+            "NOUN": 3,
+            "ADP": 2,
+            "AUX": 1,
+            "VERB": 1,
+            "DET": 1
+        }
+    ],
+    "video8089": [
+        {
+            "DET": 3,
+            "NOUN": 5,
+            "VERB": 1,
+            "PRON": 1,
+            "ADJ": 2,
+            "ADP": 2,
+            "CCONJ": 1,
+            "ADV": 3
+        }
+    ],
+    "video8110": [
+        {
+            "DET": 3,
+            "NOUN": 4,
+            "VERB": 2,
+            "ADP": 2,
+            "SCONJ": 1,
+            "PROPN": 1
+        }
+    ],
+    "video8111": [
+        {
+            "NOUN": 4,
+            "AUX": 1,
+            "VERB": 1,
+            "DET": 1
+        }
+    ],
+    "video8116": [
+        {
+            "DET": 1,
+            "NOUN": 4,
+            "VERB": 1,
+            "ADP": 1,
+            "PRON": 1
+        }
+    ],
+    "video8118": [
+        {
+            "NOUN": 4,
+            "ADP": 2,
+            "DET": 1,
+            "ADJ": 2,
+            "VERB": 2,
+            "PRON": 1,
+            "CCONJ": 1
+        }
+    ],
+    "video8119": [
+        {
+            "NOUN": 3,
+            "VERB": 1,
+            "PRON": 1,
+            "ADJ": 1,
+            "AUX": 1
+        }
+    ],
+    "video8120": [
+        {
+            "DET": 2,
+            "NOUN": 4,
+            "AUX": 1,
+            "VERB": 1,
+            "ADP": 1
+        }
+    ],
+    "video8121": [
+        {
+            "PRON": 1,
+            "VERB": 1,
+            "DET": 2,
+            "NOUN": 2,
+            "ADP": 1
+        }
+    ],
+    "video8122": [
+        {
+            "DET": 1,
+            "ADJ": 1,
+            "NOUN": 2
+        }
+    ],
+    "video8123": [
+        {
+            "DET": 1,
+            "NOUN": 4,
+            "AUX": 1,
+            "VERB": 1,
+            "ADP": 1
+        }
+    ],
+    "video8124": [
+        {
+            "NOUN": 4,
+            "VERB": 1,
+            "DET": 2,
+            "ADP": 1,
+            "ADJ": 1,
+            "NUM": 1
+        }
+    ],
+    "video8125": [
+        {
+            "DET": 3,
+            "NOUN": 4,
+            "ADP": 2,
+            "VERB": 1
+        }
+    ],
+    "video8128": [
+        {
+            "DET": 2,
+            "NOUN": 3,
+            "VERB": 2,
+            "PART": 1
+        }
+    ],
+    "video8129": [
+        {
+            "ADP": 2,
+            "DET": 5,
+            "NOUN": 6,
+            "ADJ": 2,
+            "SCONJ": 1,
+            "VERB": 2,
+            "CCONJ": 1,
+            "AUX": 2,
+            "ADV": 1
+        }
+    ],
+    "video8175": [
+        {
+            "DET": 4,
+            "NOUN": 4,
+            "ADP": 1,
+            "CCONJ": 1,
+            "VERB": 2,
+            "ADJ": 1
+        }
+    ],
+    "video8240": [
+        {
+            "DET": 3,
+            "ADJ": 2,
+            "NOUN": 3,
+            "VERB": 1
+        }
+    ],
+    "video8241": [
+        {
+            "ADJ": 4,
+            "NOUN": 3,
+            "ADP": 1,
+            "CCONJ": 2,
+            "AUX": 1,
+            "VERB": 2
+        }
+    ],
+    "video8242": [
+        {
+            "ADJ": 1,
+            "NOUN": 2,
+            "VERB": 2,
+            "ADV": 1,
+            "CCONJ": 1
+        }
+    ],
+    "video8243": [
+        {
+            "NOUN": 4,
+            "ADP": 3,
+            "ADJ": 1,
+            "AUX": 1,
+            "VERB": 2
+        }
+    ],
+    "video8244": [
+        {
+            "NUM": 2,
+            "NOUN": 4,
+            "VERB": 2,
+            "ADP": 3,
+            "DET": 2,
+            "PRON": 1
+        }
+    ],
+    "video8245": [
+        {
+            "DET": 2,
+            "NOUN": 2,
+            "AUX": 1,
+            "VERB": 1
+        }
+    ],
+    "video8246": [
+        {
+            "PRON": 1,
+            "VERB": 2,
+            "DET": 2,
+            "NOUN": 2,
+            "ADP": 1
+        }
+    ],
+    "video8247": [
+        {
+            "DET": 2,
+            "NOUN": 4,
+            "AUX": 1,
+            "VERB": 3,
+            "ADP": 2,
+            "CCONJ": 2
+        }
+    ],
+    "video8248": [
+        {
+            "DET": 3,
+            "NOUN": 4,
+            "ADP": 2,
+            "CCONJ": 2,
+            "AUX": 1,
+            "VERB": 1,
+            "PROPN": 1
+        }
+    ],
+    "video8249": [
+        {
+            "PROPN": 1,
+            "AUX": 1,
+            "VERB": 1,
+            "ADP": 3,
+            "NOUN": 4,
+            "DET": 2
+        }
+    ],
+    "video8250": [
+        {
+            "ADJ": 1,
+            "NOUN": 4,
+            "ADP": 1
+        }
+    ],
+    "video8251": [
+        {
+            "NOUN": 5,
+            "ADP": 1,
+            "VERB": 1,
+            "CCONJ": 1
+        }
+    ],
+    "video8252": [
+        {
+            "NOUN": 3,
+            "VERB": 1,
+            "ADP": 2,
+            "DET": 1,
+            "ADJ": 2
+        }
+    ],
+    "video8253": [
+        {
+            "NOUN": 3,
+            "ADP": 1
+        }
+    ],
+    "video8254": [
+        {
+            "DET": 3,
+            "NOUN": 3,
+            "ADP": 2,
+            "ADJ": 1,
+            "AUX": 1,
+            "VERB": 1
+        }
+    ],
+    "video8255": [
+        {
+            "DET": 1,
+            "NOUN": 2,
+            "AUX": 1,
+            "VERB": 1
+        }
+    ],
+    "video8256": [
+        {
+            "PRON": 1,
+            "VERB": 1,
+            "DET": 1,
+            "NOUN": 2,
+            "ADJ": 1
+        }
+    ],
+    "video8257": [
+        {
+            "DET": 3,
+            "NOUN": 3,
+            "AUX": 1,
+            "VERB": 1,
+            "ADP": 1,
+            "ADJ": 1
+        }
+    ],
+    "video8258": [
+        {
+            "NOUN": 3,
+            "AUX": 1,
+            "VERB": 1,
+            "DET": 1
+        }
+    ],
+    "video8259": [
+        {
+            "DET": 1,
+            "NOUN": 1,
+            "AUX": 1,
+            "VERB": 1
+        }
+    ],
+    "video8260": [
+        {
+            "NOUN": 5,
+            "ADP": 3,
+            "PROPN": 2,
+            "VERB": 2,
+            "DET": 4,
+            "PART": 1,
+            "PRON": 1,
+            "ADJ": 2,
+            "AUX": 1
+        }
+    ],
+    "video8261": [
+        {
+            "ADJ": 2,
+            "NOUN": 3,
+            "ADP": 2,
+            "AUX": 1,
+            "VERB": 1,
+            "PRON": 1,
+            "DET": 1
+        }
+    ],
+    "video8262": [
+        {
+            "NOUN": 3,
+            "AUX": 1,
+            "VERB": 1,
+            "ADP": 1,
+            "DET": 1,
+            "ADJ": 1
+        }
+    ],
+    "video8263": [
+        {
+            "DET": 2,
+            "NOUN": 3,
+            "VERB": 1,
+            "ADJ": 2,
+            "ADP": 1
+        }
+    ],
+    "video8264": [
+        {
+            "NOUN": 4,
+            "VERB": 1,
+            "PRON": 1,
+            "ADP": 1,
+            "DET": 1,
+            "ADJ": 1
+        }
+    ],
+    "video8265": [
+        {
+            "PRON": 1,
+            "VERB": 1,
+            "DET": 2,
+            "NOUN": 5,
+            "CCONJ": 1,
+            "ADP": 2
+        }
+    ],
+    "video8266": [
+        {
+            "DET": 2,
+            "NOUN": 3,
+            "AUX": 1,
+            "VERB": 1,
+            "ADP": 1
+        }
+    ],
+    "video8267": [
+        {
+            "NOUN": 2,
+            "ADP": 1,
+            "VERB": 2,
+            "PART": 1
+        }
+    ],
+    "video8268": [
+        {
+            "NOUN": 3,
+            "ADP": 1
+        }
+    ],
+    "video8269": [
+        {
+            "DET": 2,
+            "NOUN": 3,
+            "VERB": 3,
+            "AUX": 2,
+            "PART": 1
+        }
+    ],
+    "video8300": [
+        {
+            "DET": 1,
+            "NOUN": 6,
+            "VERB": 3,
+            "ADP": 2,
+            "PRON": 2,
+            "ADV": 3,
+            "CCONJ": 1,
+            "SCONJ": 1
+        }
+    ],
+    "video8301": [
+        {
+            "NOUN": 2,
+            "VERB": 1,
+            "PART": 1,
+            "AUX": 1,
+            "NUM": 1,
+            "ADJ": 1
+        }
+    ],
+    "video8302": [
+        {
+            "DET": 2,
+            "NOUN": 2,
+            "VERB": 1,
+            "ADP": 2,
+            "PROPN": 2
+        }
+    ],
+    "video8303": [
+        {
+            "DET": 3,
+            "NOUN": 3,
+            "VERB": 1,
+            "ADJ": 2,
+            "ADP": 1
+        }
+    ],
+    "video8304": [
+        {
+            "DET": 3,
+            "NOUN": 5,
+            "VERB": 1,
+            "ADP": 2,
+            "ADJ": 1
+        }
+    ],
+    "video8305": [
+        {
+            "ADP": 2,
+            "DET": 2,
+            "NOUN": 4,
+            "AUX": 1,
+            "VERB": 2,
+            "SCONJ": 1
+        }
+    ],
+    "video8306": [
+        {
+            "NOUN": 2,
+            "VERB": 1,
+            "ADP": 1,
+            "DET": 1,
+            "PROPN": 3
+        }
+    ],
+    "video8307": [
+        {
+            "PROPN": 1,
+            "NOUN": 3,
+            "ADP": 1,
+            "ADJ": 2,
+            "VERB": 2,
+            "DET": 1,
+            "AUX": 1
+        }
+    ],
+    "video8308": [
+        {
+            "DET": 1,
+            "NOUN": 2,
+            "AUX": 1,
+            "VERB": 1
+        }
+    ],
+    "video8309": [
+        {
+            "PRON": 1,
+            "VERB": 1,
+            "DET": 1,
+            "NOUN": 2
+        }
+    ],
+    "video8310": [
+        {
+            "NUM": 1,
+            "NOUN": 2,
+            "AUX": 1,
+            "VERB": 1,
+            "ADP": 1,
+            "DET": 1
+        }
+    ],
+    "video8311": [
+        {
+            "DET": 4,
+            "NOUN": 5,
+            "AUX": 1,
+            "VERB": 4,
+            "SCONJ": 2,
+            "PRON": 2,
+            "CCONJ": 1,
+            "ADP": 1
+        }
+    ],
+    "video8312": [
+        {
+            "DET": 4,
+            "NOUN": 5,
+            "AUX": 1,
+            "ADP": 3
+        }
+    ],
+    "video8313": [
+        {
+            "DET": 2,
+            "NOUN": 3,
+            "AUX": 1,
+            "VERB": 1,
+            "ADJ": 1
+        }
+    ],
+    "video8314": [
+        {
+            "DET": 2,
+            "NOUN": 3,
+            "VERB": 1,
+            "ADP": 2
+        }
+    ],
+    "video8315": [
+        {
+            "NUM": 1,
+            "NOUN": 3,
+            "AUX": 1,
+            "VERB": 1,
+            "DET": 1,
+            "PROPN": 1
+        }
+    ],
+    "video8316": [
+        {
+            "DET": 2,
+            "NOUN": 2,
+            "AUX": 1,
+            "VERB": 1,
+            "ADP": 1
+        }
+    ],
+    "video8317": [
+        {
+            "DET": 1,
+            "ADJ": 1,
+            "NOUN": 3,
+            "AUX": 1,
+            "VERB": 1,
+            "ADP": 1,
+            "PRON": 1
+        }
+    ],
+    "video8318": [
+        {
+            "DET": 2,
+            "NOUN": 3,
+            "VERB": 1,
+            "PART": 1
+        }
+    ],
+    "video8319": [
+        {
+            "PRON": 1,
+            "VERB": 2,
+            "DET": 2,
+            "NOUN": 2,
+            "ADP": 3,
+            "ADJ": 1,
+            "AUX": 1
+        }
+    ],
+    "video8320": [
+        {
+            "DET": 1,
+            "ADJ": 1,
+            "NOUN": 1,
+            "AUX": 1,
+            "VERB": 3,
+            "PRON": 1,
+            "SCONJ": 1,
+            "PART": 1,
+            "ADP": 1
+        }
+    ],
+    "video8321": [
+        {
+            "DET": 1,
+            "NOUN": 1,
+            "AUX": 1,
+            "VERB": 1,
+            "ADP": 1,
+            "PRON": 1
+        }
+    ],
+    "video8322": [
+        {
+            "DET": 1,
+            "NOUN": 2,
+            "VERB": 3,
+            "PART": 1,
+            "ADP": 1,
+            "CCONJ": 1
+        }
+    ],
+    "video8323": [
+        {
+            "DET": 4,
+            "NOUN": 3,
+            "AUX": 1,
+            "PROPN": 1,
+            "CCONJ": 1,
+            "VERB": 1,
+            "ADP": 1
+        }
+    ],
+    "video8324": [
+        {
+            "DET": 1,
+            "NOUN": 3,
+            "VERB": 1,
+            "ADP": 1
+        }
+    ],
+    "video8325": [
+        {
+            "DET": 3,
+            "NOUN": 3,
+            "VERB": 1,
+            "ADP": 1
+        }
+    ],
+    "video8326": [
+        {
+            "NOUN": 3,
+            "VERB": 2,
+            "ADP": 1,
+            "ADJ": 1
+        }
+    ],
+    "video8327": [
+        {
+            "VERB": 1,
+            "ADJ": 1,
+            "NOUN": 4,
+            "ADP": 2,
+            "DET": 2,
+            "CCONJ": 1
+        }
+    ],
+    "video8328": [
+        {
+            "DET": 2,
+            "NOUN": 4,
+            "VERB": 2,
+            "CCONJ": 1,
+            "ADP": 1
+        }
+    ],
+    "video8329": [
+        {
+            "DET": 1,
+            "NOUN": 3,
+            "VERB": 1,
+            "ADP": 1
+        }
+    ],
+    "video8330": [
+        {
+            "DET": 3,
+            "NOUN": 4,
+            "CCONJ": 1,
+            "AUX": 1,
+            "VERB": 1,
+            "ADP": 1
+        }
+    ],
+    "video8331": [
+        {
+            "DET": 1,
+            "NOUN": 3,
+            "VERB": 1,
+            "ADP": 1
+        }
+    ],
+    "video8332": [
+        {
+            "PRON": 1,
+            "AUX": 1,
+            "VERB": 1,
+            "DET": 1,
+            "ADJ": 1,
+            "INTJ": 1,
+            "NOUN": 3
+        }
+    ],
+    "video8333": [
+        {
+            "DET": 2,
+            "NOUN": 3,
+            "AUX": 1,
+            "VERB": 1,
+            "ADP": 1
+        }
+    ],
+    "video8334": [
+        {
+            "DET": 2,
+            "NOUN": 2,
+            "ADP": 1,
+            "VERB": 2,
+            "CCONJ": 1
+        }
+    ],
+    "video8335": [
+        {
+            "DET": 4,
+            "ADJ": 1,
+            "NOUN": 6,
+            "AUX": 1,
+            "VERB": 1,
+            "ADP": 5,
+            "PRON": 1
+        }
+    ],
+    "video8336": [
+        {
+            "NOUN": 2,
+            "ADP": 1,
+            "DET": 1,
+            "ADV": 1
+        }
+    ],
+    "video8337": [
+        {
+            "NOUN": 3,
+            "VERB": 1,
+            "ADP": 1,
+            "DET": 1
+        }
+    ],
+    "video8339": [
+        {
+            "NOUN": 7,
+            "ADP": 2,
+            "DET": 1,
+            "CCONJ": 1
+        }
+    ],
+    "video8340": [
+        {
+            "DET": 3,
+            "NOUN": 3,
+            "CCONJ": 1,
+            "VERB": 1,
+            "ADP": 1
+        }
+    ],
+    "video8341": [
+        {
+            "NOUN": 3,
+            "AUX": 1,
+            "VERB": 1,
+            "ADP": 1,
+            "DET": 1
+        }
+    ],
+    "video8342": [
+        {
+            "NOUN": 5,
+            "ADP": 2,
+            "ADJ": 1,
+            "VERB": 1
+        }
+    ],
+    "video8343": [
+        {
+            "DET": 2,
+            "NOUN": 3,
+            "AUX": 1,
+            "VERB": 1
+        }
+    ],
+    "video8344": [
+        {
+            "DET": 3,
+            "NOUN": 3,
+            "AUX": 1,
+            "VERB": 1,
+            "ADP": 1
+        }
+    ],
+    "video8345": [
+        {
+            "DET": 1,
+            "NOUN": 1,
+            "VERB": 1,
+            "PRON": 1
+        }
+    ],
+    "video8346": [
+        {
+            "DET": 2,
+            "NOUN": 4,
+            "VERB": 2,
+            "ADP": 3,
+            "NUM": 2,
+            "PRON": 1
+        }
+    ],
+    "video8347": [
+        {
+            "DET": 2,
+            "NOUN": 2,
+            "ADP": 2,
+            "PRON": 1,
+            "VERB": 1
+        }
+    ],
+    "video8348": [
+        {
+            "DET": 1,
+            "NOUN": 3,
+            "VERB": 2,
+            "ADP": 3,
+            "ADJ": 1,
+            "PRON": 1
+        }
+    ],
+    "video8349": [
+        {
+            "NOUN": 1,
+            "VERB": 2
+        }
+    ],
+    "video8392": [
+        {
+            "DET": 1,
+            "NOUN": 8,
+            "ADP": 3,
+            "ADJ": 1,
+            "VERB": 3,
+            "CCONJ": 2
+        }
+    ],
+    "video8416": [
+        {
+            "DET": 3,
+            "NOUN": 5,
+            "ADP": 1,
+            "ADJ": 3,
+            "ADV": 1,
+            "VERB": 3,
+            "AUX": 1,
+            "SCONJ": 1,
+            "PRON": 1
+        }
+    ],
+    "video8420": [
+        {
+            "DET": 2,
+            "NOUN": 3,
+            "VERB": 2,
+            "ADP": 1,
+            "ADJ": 2
+        }
+    ],
+    "video8423": [
+        {
+            "DET": 2,
+            "NOUN": 3,
+            "ADP": 1,
+            "ADJ": 2,
+            "SCONJ": 1,
+            "PRON": 2,
+            "ADV": 1,
+            "VERB": 1
+        }
+    ],
+    "video8426": [
+        {
+            "VERB": 3,
+            "ADP": 3,
+            "DET": 1,
+            "ADJ": 1,
+            "NOUN": 3,
+            "PRON": 1
+        }
+    ],
+    "video8440": [
+        {
+            "DET": 2,
+            "NOUN": 2,
+            "VERB": 2,
+            "SCONJ": 1
+        }
+    ],
+    "video8441": [
+        {
+            "NOUN": 2,
+            "ADP": 1,
+            "DET": 1,
+            "ADJ": 1
+        }
+    ],
+    "video8442": [
+        {
+            "DET": 2,
+            "NOUN": 2,
+            "VERB": 1,
+            "ADJ": 1
+        }
+    ],
+    "video8443": [
+        {
+            "PROPN": 2,
+            "NOUN": 3,
+            "ADP": 1,
+            "DET": 1
+        }
+    ],
+    "video8444": [
+        {
+            "NUM": 1,
+            "NOUN": 6,
+            "ADP": 2,
+            "DET": 1,
+            "VERB": 3,
+            "SCONJ": 1,
+            "PART": 1,
+            "ADV": 1,
+            "CCONJ": 2,
+            "ADJ": 2
+        }
+    ],
+    "video8445": [
+        {
+            "NOUN": 3,
+            "VERB": 1,
+            "DET": 1,
+            "ADP": 1
+        }
+    ],
+    "video8446": [
+        {
+            "PROPN": 1,
+            "AUX": 1,
+            "VERB": 3,
+            "PART": 1,
+            "SCONJ": 1,
+            "DET": 1,
+            "NOUN": 2
+        }
+    ],
+    "video8447": [
+        {
+            "DET": 2,
+            "NOUN": 2,
+            "VERB": 1,
+            "ADP": 1
+        }
+    ],
+    "video8450": [
+        {
+            "DET": 1,
+            "NOUN": 9,
+            "VERB": 5,
+            "ADP": 3,
+            "CCONJ": 2,
+            "ADJ": 2
+        }
+    ],
+    "video8451": [
+        {
+            "DET": 2,
+            "NOUN": 3,
+            "ADP": 2,
+            "ADJ": 1,
+            "VERB": 1
+        }
+    ],
+    "video8453": [
+        {
+            "DET": 3,
+            "NOUN": 3,
+            "VERB": 2,
+            "ADP": 1
+        }
+    ],
+    "video8456": [
+        {
+            "DET": 2,
+            "NOUN": 2,
+            "VERB": 1,
+            "ADP": 1,
+            "PRON": 1,
+            "CCONJ": 1,
+            "ADV": 1
+        }
+    ],
+    "video8457": [
+        {
+            "DET": 2,
+            "NOUN": 3,
+            "VERB": 2,
+            "AUX": 1,
+            "ADP": 1,
+            "ADJ": 1
+        }
+    ],
+    "video8459": [
+        {
+            "PROPN": 1,
+            "CCONJ": 1,
+            "NOUN": 3,
+            "VERB": 1,
+            "ADP": 1,
+            "DET": 1,
+            "ADV": 1
+        }
+    ],
+    "video8461": [
+        {
+            "NUM": 1,
+            "NOUN": 4,
+            "VERB": 2,
+            "ADP": 2,
+            "DET": 3,
+            "CCONJ": 1,
+            "ADV": 1
+        }
+    ],
+    "video8462": [
+        {
+            "NOUN": 2,
+            "VERB": 1
+        }
+    ],
+    "video8463": [
+        {
+            "DET": 2,
+            "ADJ": 1,
+            "NOUN": 2,
+            "ADP": 1
+        }
+    ],
+    "video8464": [
+        {
+            "DET": 2,
+            "NOUN": 3,
+            "ADP": 1,
+            "ADJ": 2,
+            "AUX": 1,
+            "VERB": 1
+        }
+    ],
+    "video8466": [
+        {
+            "NOUN": 3,
+            "AUX": 1,
+            "VERB": 1,
+            "ADP": 1,
+            "DET": 1
+        }
+    ],
+    "video8468": [
+        {
+            "PRON": 1,
+            "AUX": 1,
+            "VERB": 1,
+            "ADP": 2,
+            "DET": 1,
+            "NOUN": 4,
+            "ADJ": 1
+        }
+    ],
+    "video8469": [
+        {
+            "NUM": 2,
+            "NOUN": 5,
+            "ADP": 2,
+            "DET": 1,
+            "ADJ": 2,
+            "CCONJ": 1
+        }
+    ],
+    "video8470": [
+        {
+            "ADJ": 1,
+            "NOUN": 3
+        }
+    ],
+    "video8471": [
+        {
+            "DET": 3,
+            "NOUN": 3,
+            "ADP": 1,
+            "ADJ": 2,
+            "AUX": 1,
+            "VERB": 1
+        }
+    ],
+    "video8472": [
+        {
+            "NOUN": 3,
+            "AUX": 1,
+            "VERB": 1,
+            "DET": 1,
+            "ADP": 1
+        }
+    ],
+    "video8473": [
+        {
+            "DET": 3,
+            "VERB": 2,
+            "NOUN": 4,
+            "ADP": 3,
+            "ADJ": 1
+        }
+    ],
+    "video8474": [
+        {
+            "NOUN": 5,
+            "CCONJ": 1,
+            "VERB": 1,
+            "ADP": 3,
+            "DET": 2
+        }
+    ],
+    "video8475": [
+        {
+            "VERB": 1,
+            "DET": 2,
+            "NOUN": 4,
+            "ADP": 2,
+            "ADJ": 1
+        }
+    ],
+    "video8476": [
+        {
+            "NOUN": 3,
+            "AUX": 1,
+            "VERB": 1,
+            "DET": 1
+        }
+    ],
+    "video8477": [
+        {
+            "NOUN": 6,
+            "VERB": 1,
+            "ADP": 2,
+            "ADJ": 1
+        }
+    ],
+    "video8478": [
+        {
+            "DET": 2,
+            "NOUN": 2,
+            "AUX": 1,
+            "VERB": 1
+        }
+    ],
+    "video8479": [
+        {
+            "DET": 1,
+            "NOUN": 2,
+            "VERB": 2,
+            "SCONJ": 1,
+            "PART": 1
+        }
+    ],
+    "video8480": [
+        {
+            "ADJ": 1,
+            "NOUN": 2,
+            "AUX": 2,
+            "VERB": 2,
+            "CCONJ": 1,
+            "DET": 1
+        }
+    ],
+    "video8481": [
+        {
+            "DET": 1,
+            "NOUN": 3,
+            "AUX": 1,
+            "VERB": 1,
+            "ADP": 1
+        }
+    ],
+    "video8482": [
+        {
+            "ADJ": 1,
+            "NOUN": 3,
+            "VERB": 1
+        }
+    ],
+    "video8483": [
+        {
+            "PRON": 1,
+            "AUX": 1,
+            "VERB": 1,
+            "NOUN": 2,
+            "ADP": 1,
+            "DET": 1
+        }
+    ],
+    "video8485": [
+        {
+            "ADJ": 1,
+            "NOUN": 3
+        }
+    ],
+    "video8486": [
+        {
+            "DET": 2,
+            "NOUN": 2,
+            "ADP": 1,
+            "ADJ": 1,
+            "VERB": 1
+        }
+    ],
+    "video8488": [
+        {
+            "DET": 1,
+            "NOUN": 3,
+            "AUX": 1,
+            "VERB": 1,
+            "ADP": 1,
+            "ADJ": 1
+        }
+    ],
+    "video8489": [
+        {
+            "DET": 2,
+            "NOUN": 3,
+            "VERB": 4,
+            "SCONJ": 2,
+            "PART": 2,
+            "ADJ": 1,
+            "PROPN": 1,
+            "AUX": 1
+        }
+    ],
+    "video8490": [
+        {
+            "DET": 1,
+            "ADJ": 1,
+            "NOUN": 3,
+            "ADP": 2
+        }
+    ],
+    "video8491": [
+        {
+            "DET": 3,
+            "NOUN": 5,
+            "VERB": 1,
+            "ADP": 1
+        }
+    ],
+    "video8492": [
+        {
+            "DET": 1,
+            "NOUN": 1,
+            "AUX": 1,
+            "ADV": 1,
+            "ADJ": 1
+        }
+    ],
+    "video8493": [
+        {
+            "ADJ": 1,
+            "NOUN": 3,
+            "VERB": 3,
+            "ADP": 2,
+            "ADV": 1,
+            "SCONJ": 1
+        }
+    ],
+    "video8494": [
+        {
+            "DET": 2,
+            "NOUN": 2,
+            "AUX": 1,
+            "VERB": 1,
+            "ADP": 1
+        }
+    ],
+    "video8495": [
+        {
+            "NOUN": 5,
+            "ADP": 4,
+            "DET": 2,
+            "AUX": 1,
+            "VERB": 1,
+            "CCONJ": 1,
+            "ADJ": 1
+        }
+    ],
+    "video8496": [
+        {
+            "DET": 3,
+            "ADJ": 2,
+            "NOUN": 4,
+            "ADP": 3,
+            "VERB": 2,
+            "AUX": 1
+        }
+    ],
+    "video8497": [
+        {
+            "DET": 2,
+            "NOUN": 2,
+            "VERB": 1,
+            "ADP": 1
+        }
+    ],
+    "video8498": [
+        {
+            "ADJ": 2,
+            "CCONJ": 1,
+            "NOUN": 2,
+            "AUX": 1,
+            "ADP": 1,
+            "DET": 1
+        }
+    ],
+    "video8499": [
+        {
+            "NOUN": 3,
+            "VERB": 1,
+            "ADP": 1
+        }
+    ],
+    "video8507": [
+        {
+            "DET": 2,
+            "NOUN": 4,
+            "VERB": 1,
+            "ADP": 1
+        }
+    ],
+    "video8514": [
+        {
+            "DET": 3,
+            "NOUN": 3,
+            "AUX": 1,
+            "VERB": 2,
+            "ADP": 2,
+            "CCONJ": 1,
+            "PRON": 1
+        }
+    ],
+    "video8556": [
+        {
+            "DET": 2,
+            "NOUN": 6,
+            "ADP": 4,
+            "AUX": 1,
+            "VERB": 1
+        }
+    ],
+    "video8572": [
+        {
+            "DET": 2,
+            "NOUN": 3,
+            "VERB": 2,
+            "ADP": 2,
+            "CCONJ": 1,
+            "PRON": 1
+        }
+    ],
+    "video8573": [
+        {
+            "DET": 2,
+            "NOUN": 4,
+            "ADP": 2,
+            "VERB": 1,
+            "NUM": 1,
+            "PRON": 1
+        }
+    ],
+    "video8578": [
+        {
+            "DET": 1,
+            "NOUN": 2,
+            "AUX": 1,
+            "VERB": 2,
+            "SCONJ": 1
+        }
+    ],
+    "video8601": [
+        {
+            "DET": 1,
+            "NOUN": 3,
+            "AUX": 1,
+            "VERB": 1,
+            "ADP": 1
+        }
+    ],
+    "video8604": [
+        {
+            "DET": 1,
+            "PROPN": 1,
+            "NOUN": 2,
+            "AUX": 1,
+            "VERB": 1,
+            "ADP": 1,
+            "PRON": 1
+        }
+    ],
+    "video8605": [
+        {
+            "DET": 1,
+            "NOUN": 1,
+            "VERB": 2,
+            "CCONJ": 1
+        }
+    ],
+    "video8606": [
+        {
+            "DET": 3,
+            "NOUN": 4,
+            "VERB": 2,
+            "CCONJ": 1,
+            "ADP": 1
+        }
+    ],
+    "video8618": [
+        {
+            "DET": 2,
+            "NOUN": 4,
+            "ADP": 2,
+            "ADJ": 1
+        }
+    ],
+    "video8620": [
+        {
+            "DET": 2,
+            "NOUN": 3,
+            "AUX": 1,
+            "VERB": 1
+        }
+    ],
+    "video8622": [
+        {
+            "DET": 2,
+            "NOUN": 2,
+            "AUX": 1,
+            "VERB": 2,
+            "PART": 1,
+            "PROPN": 1,
+            "X": 1
+        }
+    ],
+    "video8626": [
+        {
+            "NOUN": 2,
+            "AUX": 1,
+            "VERB": 1,
+            "ADP": 1,
+            "DET": 1
+        }
+    ],
+    "video8628": [
+        {
+            "DET": 2,
+            "NOUN": 4,
+            "AUX": 1,
+            "VERB": 1,
+            "ADP": 2,
+            "PRON": 1
+        }
+    ],
+    "video8650": [
+        {
+            "DET": 1,
+            "NOUN": 2,
+            "AUX": 1,
+            "VERB": 1
+        }
+    ],
+    "video8651": [
+        {
+            "DET": 1,
+            "NOUN": 2,
+            "VERB": 1,
+            "ADP": 1
+        }
+    ],
+    "video8652": [
+        {
+            "DET": 3,
+            "NOUN": 3,
+            "VERB": 3,
+            "ADP": 1,
+            "SCONJ": 1,
+            "PART": 1
+        }
+    ],
+    "video8653": [
+        {
+            "DET": 2,
+            "NOUN": 3,
+            "CCONJ": 1,
+            "AUX": 1,
+            "VERB": 1,
+            "ADP": 1
+        }
+    ],
+    "video8654": [
+        {
+            "DET": 2,
+            "NOUN": 2,
+            "VERB": 1,
+            "ADJ": 1
+        }
+    ],
+    "video8655": [
+        {
+            "DET": 2,
+            "NOUN": 3,
+            "AUX": 1,
+            "VERB": 1,
+            "ADP": 1
+        }
+    ],
+    "video8656": [
+        {
+            "PRON": 1,
+            "VERB": 1,
+            "DET": 1,
+            "ADJ": 1,
+            "NOUN": 1
+        }
+    ],
+    "video8657": [
+        {
+            "DET": 2,
+            "NOUN": 3,
+            "VERB": 1,
+            "PRON": 1,
+            "ADP": 1
+        }
+    ],
+    "video8660": [
+        {
+            "NUM": 1,
+            "NOUN": 2,
+            "VERB": 1,
+            "ADP": 1,
+            "DET": 1
+        }
+    ],
+    "video8661": [
+        {
+            "DET": 3,
+            "NOUN": 5,
+            "VERB": 1,
+            "ADP": 1
+        }
+    ],
+    "video8662": [
+        {
+            "DET": 3,
+            "NOUN": 4,
+            "VERB": 1,
+            "ADP": 1
+        }
+    ],
+    "video8663": [
+        {
+            "NOUN": 3,
+            "ADP": 1,
+            "PRON": 1,
+            "VERB": 1
+        }
+    ],
+    "video8664": [
+        {
+            "NOUN": 6,
+            "VERB": 2,
+            "ADP": 3,
+            "DET": 1,
+            "SCONJ": 1,
+            "PRON": 1
+        }
+    ],
+    "video8665": [
+        {
+            "DET": 4,
+            "NOUN": 8,
+            "VERB": 2,
+            "ADJ": 2,
+            "CCONJ": 2,
+            "PROPN": 1,
+            "ADP": 2
+        }
+    ],
+    "video8666": [
+        {
+            "DET": 1,
+            "NOUN": 1,
+            "AUX": 1,
+            "VERB": 1
+        }
+    ],
+    "video8667": [
+        {
+            "NOUN": 2,
+            "AUX": 2,
+            "VERB": 2,
+            "CCONJ": 1
+        }
+    ],
+    "video8668": [
+        {
+            "DET": 1,
+            "NOUN": 2,
+            "AUX": 1,
+            "ADJ": 1,
+            "VERB": 1
+        }
+    ],
+    "video8669": [
+        {
+            "NOUN": 2,
+            "VERB": 1,
+            "ADP": 1,
+            "DET": 1
+        }
+    ],
+    "video8670": [
+        {
+            "DET": 3,
+            "ADJ": 1,
+            "NOUN": 4,
+            "VERB": 2,
+            "ADP": 2
+        }
+    ],
+    "video8671": [
+        {
+            "DET": 2,
+            "NOUN": 2,
+            "AUX": 1,
+            "VERB": 1,
+            "ADP": 1
+        }
+    ],
+    "video8672": [
+        {
+            "NOUN": 4,
+            "AUX": 1,
+            "VERB": 1,
+            "ADP": 1,
+            "ADJ": 1
+        }
+    ],
+    "video8673": [
+        {
+            "DET": 1,
+            "NOUN": 1,
+            "VERB": 1,
+            "ADJ": 1
+        }
+    ],
+    "video8674": [
+        {
+            "NOUN": 5,
+            "ADP": 4,
+            "ADJ": 4,
+            "CCONJ": 1,
+            "VERB": 2,
+            "DET": 1
+        }
+    ],
+    "video8675": [
+        {
+            "DET": 2,
+            "NOUN": 2,
+            "VERB": 1
+        }
+    ],
+    "video8676": [
+        {
+            "DET": 2,
+            "NOUN": 2,
+            "VERB": 1,
+            "ADP": 1
+        }
+    ],
+    "video8677": [
+        {
+            "NUM": 1,
+            "NOUN": 3,
+            "ADP": 2,
+            "ADJ": 1,
+            "AUX": 1,
+            "VERB": 1,
+            "DET": 1
+        }
+    ],
+    "video8678": [
+        {
+            "DET": 2,
+            "NOUN": 2,
+            "AUX": 1,
+            "VERB": 1,
+            "ADP": 1
+        }
+    ],
+    "video8679": [
+        {
+            "DET": 2,
+            "NOUN": 2,
+            "VERB": 1,
+            "ADJ": 1
+        }
+    ],
+    "video8680": [
+        {
+            "DET": 3,
+            "NOUN": 3,
+            "VERB": 1,
+            "ADP": 2
+        }
+    ],
+    "video8681": [
+        {
+            "DET": 3,
+            "ADJ": 2,
+            "NOUN": 5,
+            "CCONJ": 1,
+            "PRON": 2,
+            "AUX": 1,
+            "VERB": 2,
+            "PART": 1,
+            "ADP": 1
+        }
+    ],
+    "video8682": [
+        {
+            "DET": 2,
+            "NOUN": 2,
+            "VERB": 1,
+            "PRON": 1,
+            "ADP": 1,
+            "ADJ": 2
+        }
+    ],
+    "video8683": [
+        {
+            "NUM": 1,
+            "NOUN": 4,
+            "VERB": 1,
+            "ADP": 2,
+            "DET": 1,
+            "PRON": 1
+        }
+    ],
+    "video8684": [
+        {
+            "DET": 2,
+            "NOUN": 3,
+            "VERB": 1,
+            "ADP": 2,
+            "ADJ": 1
+        }
+    ],
+    "video8685": [
+        {
+            "DET": 3,
+            "NOUN": 3,
+            "VERB": 1,
+            "ADP": 1
+        }
+    ],
+    "video8686": [
+        {
+            "DET": 1,
+            "NOUN": 2,
+            "AUX": 1,
+            "VERB": 2,
+            "CCONJ": 1,
+            "ADP": 1,
+            "PRON": 1
+        }
+    ],
+    "video8687": [
+        {
+            "ADV": 2,
+            "VERB": 2,
+            "NOUN": 1,
+            "AUX": 1
+        }
+    ],
+    "video8688": [
+        {
+            "DET": 2,
+            "NOUN": 3,
+            "VERB": 1
+        }
+    ],
+    "video8689": [
+        {
+            "DET": 1,
+            "NOUN": 2,
+            "ADP": 1,
+            "PROPN": 2,
+            "AUX": 1,
+            "VERB": 1
+        }
+    ],
+    "video8690": [
+        {
+            "DET": 2,
+            "ADJ": 1,
+            "NOUN": 4,
+            "AUX": 1,
+            "VERB": 3,
+            "CCONJ": 1,
+            "ADV": 1,
+            "PART": 1,
+            "ADP": 1,
+            "PRON": 1
+        }
+    ],
+    "video8712": [
+        {
+            "DET": 1,
+            "NOUN": 3,
+            "AUX": 1,
+            "VERB": 1
+        }
+    ],
+    "video8721": [
+        {
+            "NOUN": 4,
+            "ADP": 2,
+            "PROPN": 1,
+            "AUX": 1,
+            "VERB": 1,
+            "DET": 2
+        }
+    ],
+    "video8727": [
+        {
+            "DET": 3,
+            "NOUN": 4,
+            "ADP": 2,
+            "PRON": 1,
+            "AUX": 3,
+            "CCONJ": 1
+        }
+    ],
+    "video8741": [
+        {
+            "DET": 1,
+            "NOUN": 2,
+            "ADP": 1,
+            "ADJ": 1
+        }
+    ],
+    "video8751": [
+        {
+            "DET": 2,
+            "NOUN": 4,
+            "AUX": 1,
+            "VERB": 2,
+            "CCONJ": 1
+        }
+    ],
+    "video8752": [
+        {
+            "DET": 2,
+            "NOUN": 3,
+            "VERB": 1,
+            "ADP": 1
+        }
+    ],
+    "video8756": [
+        {
+            "DET": 1,
+            "NOUN": 3,
+            "AUX": 1,
+            "VERB": 1,
+            "ADP": 2
+        }
+    ],
+    "video8772": [
+        {
+            "DET": 3,
+            "NOUN": 3,
+            "AUX": 1,
+            "VERB": 1,
+            "ADP": 1
+        }
+    ],
+    "video8774": [
+        {
+            "PRON": 2,
+            "VERB": 3,
+            "DET": 2,
+            "NOUN": 3,
+            "ADP": 2,
+            "PART": 1
+        }
+    ],
+    "video8780": [
+        {
+            "DET": 1,
+            "NOUN": 1,
+            "AUX": 1,
+            "VERB": 1,
+            "ADV": 1
+        }
+    ],
+    "video8781": [
+        {
+            "DET": 3,
+            "NOUN": 4,
+            "ADP": 1,
+            "CCONJ": 1
+        }
+    ],
+    "video8783": [
+        {
+            "DET": 2,
+            "NOUN": 4,
+            "VERB": 3,
+            "AUX": 2,
+            "ADP": 1,
+            "PRON": 1,
+            "ADV": 1,
+            "ADJ": 1
+        }
+    ],
+    "video8784": [
+        {
+            "DET": 1,
+            "NOUN": 2,
+            "VERB": 1
+        }
+    ],
+    "video8786": [
+        {
+            "DET": 1,
+            "NOUN": 3,
+            "ADP": 2,
+            "VERB": 1
+        }
+    ],
+    "video8787": [
+        {
+            "NOUN": 4,
+            "VERB": 1,
+            "ADP": 1
+        }
+    ],
+    "video8788": [
+        {
+            "DET": 4,
+            "NOUN": 7,
+            "VERB": 3,
+            "SCONJ": 1,
+            "ADJ": 2,
+            "CCONJ": 1
+        }
+    ],
+    "video8789": [
+        {
+            "DET": 1,
+            "NOUN": 10,
+            "ADP": 4,
+            "ADJ": 2,
+            "VERB": 3,
+            "CCONJ": 1,
+            "ADV": 1
+        }
+    ],
+    "video8790": [
+        {
+            "NUM": 1,
+            "NOUN": 1,
+            "AUX": 1,
+            "VERB": 1
+        }
+    ],
+    "video8791": [
+        {
+            "DET": 2,
+            "NOUN": 4,
+            "AUX": 1,
+            "VERB": 1
+        }
+    ],
+    "video8792": [
+        {
+            "DET": 2,
+            "NOUN": 2,
+            "AUX": 1,
+            "ADP": 1
+        }
+    ],
+    "video8794": [
+        {
+            "DET": 1,
+            "NOUN": 8,
+            "CCONJ": 1,
+            "VERB": 3,
+            "ADP": 3,
+            "ADJ": 1,
+            "ADV": 1
+        }
+    ],
+    "video8796": [
+        {
+            "NOUN": 1,
+            "VERB": 2,
+            "ADP": 1
+        }
+    ],
+    "video8797": [
+        {
+            "NOUN": 2,
+            "VERB": 1
+        }
+    ],
+    "video8798": [
+        {
+            "DET": 2,
+            "NOUN": 3,
+            "AUX": 1,
+            "VERB": 1,
+            "ADP": 1
+        }
+    ],
+    "video8799": [
+        {
+            "ADJ": 1,
+            "NOUN": 2,
+            "AUX": 1,
+            "VERB": 3,
+            "ADP": 2,
+            "CCONJ": 1,
+            "DET": 1,
+            "PRON": 1
+        }
+    ],
+    "video8800": [
+        {
+            "NOUN": 1,
+            "AUX": 1,
+            "VERB": 1,
+            "ADP": 1,
+            "DET": 1,
+            "ADJ": 1
+        }
+    ],
+    "video8801": [
+        {
+            "NUM": 1,
+            "NOUN": 4,
+            "VERB": 2,
+            "ADP": 1,
+            "PRON": 2,
+            "CCONJ": 1
+        }
+    ],
+    "video8803": [
+        {
+            "DET": 2,
+            "NOUN": 3,
+            "AUX": 1,
+            "VERB": 1,
+            "ADP": 1
+        }
+    ],
+    "video8804": [
+        {
+            "NUM": 1,
+            "NOUN": 3,
+            "AUX": 1,
+            "ADP": 1,
+            "DET": 1,
+            "CCONJ": 1,
+            "VERB": 1
+        }
+    ],
+    "video8805": [
+        {
+            "DET": 3,
+            "NOUN": 3,
+            "AUX": 1,
+            "VERB": 1,
+            "ADP": 2,
+            "ADJ": 1
+        }
+    ],
+    "video8806": [
+        {
+            "PRON": 1,
+            "VERB": 1,
+            "ADP": 1,
+            "DET": 1,
+            "ADJ": 1,
+            "NOUN": 1
+        }
+    ],
+    "video8807": [
+        {
+            "DET": 1,
+            "NOUN": 3,
+            "VERB": 1
+        }
+    ],
+    "video8808": [
+        {
+            "DET": 3,
+            "NOUN": 3,
+            "VERB": 2,
+            "ADV": 1,
+            "ADP": 2,
+            "CCONJ": 1,
+            "PRON": 1
+        }
+    ],
+    "video8810": [
+        {
+            "DET": 2,
+            "NOUN": 4,
+            "VERB": 2,
+            "CCONJ": 1,
+            "ADP": 1
+        }
+    ],
+    "video8811": [
+        {
+            "DET": 2,
+            "NOUN": 5,
+            "ADP": 2,
+            "AUX": 1,
+            "VERB": 1,
+            "ADJ": 1,
+            "PRON": 1
+        }
+    ],
+    "video8812": [
+        {
+            "VERB": 1,
+            "DET": 2,
+            "NOUN": 3,
+            "CCONJ": 1,
+            "ADP": 1
+        }
+    ],
+    "video8813": [
+        {
+            "DET": 2,
+            "NOUN": 4,
+            "AUX": 1,
+            "VERB": 1,
+            "ADP": 1
+        }
+    ],
+    "video8814": [
+        {
+            "DET": 2,
+            "NOUN": 2,
+            "VERB": 1
+        }
+    ],
+    "video8815": [
+        {
+            "DET": 2,
+            "NOUN": 4,
+            "VERB": 1,
+            "ADP": 3,
+            "NUM": 1,
+            "ADJ": 1
+        }
+    ],
+    "video8816": [
+        {
+            "VERB": 2,
+            "NOUN": 3,
+            "AUX": 1,
+            "DET": 1
+        }
+    ],
+    "video8817": [
+        {
+            "DET": 1,
+            "NOUN": 3,
+            "AUX": 1,
+            "VERB": 1
+        }
+    ],
+    "video8818": [
+        {
+            "ADJ": 2,
+            "NOUN": 2,
+            "AUX": 1,
+            "VERB": 1,
+            "ADP": 1
+        }
+    ],
+    "video8819": [
+        {
+            "DET": 1,
+            "NOUN": 2,
+            "AUX": 1,
+            "VERB": 2,
+            "ADJ": 1
+        }
+    ],
+    "video8820": [
+        {
+            "DET": 3,
+            "NOUN": 4,
+            "VERB": 2,
+            "ADP": 4,
+            "PROPN": 1,
+            "CCONJ": 1
+        }
+    ],
+    "video8821": [
+        {
+            "NUM": 1,
+            "NOUN": 3,
+            "CCONJ": 1,
+            "DET": 2,
+            "AUX": 1,
+            "VERB": 1,
+            "ADP": 1
+        }
+    ],
+    "video8822": [
+        {
+            "NOUN": 7,
+            "VERB": 1,
+            "ADP": 2,
+            "DET": 2
+        }
+    ],
+    "video8823": [
+        {
+            "NOUN": 2,
+            "AUX": 1,
+            "VERB": 1
+        }
+    ],
+    "video8824": [
+        {
+            "DET": 1,
+            "NOUN": 2,
+            "ADP": 1,
+            "PROPN": 1
+        }
+    ],
+    "video8825": [
+        {
+            "DET": 2,
+            "NOUN": 3,
+            "VERB": 1,
+            "ADP": 1
+        }
+    ],
+    "video8826": [
+        {
+            "NOUN": 2,
+            "VERB": 1,
+            "ADP": 1,
+            "PRON": 1
+        }
+    ],
+    "video8827": [
+        {
+            "PROPN": 1,
+            "NOUN": 1,
+            "AUX": 1,
+            "VERB": 1
+        }
+    ],
+    "video8828": [
+        {
+            "NOUN": 5,
+            "VERB": 1,
+            "ADP": 1,
+            "AUX": 1,
+            "PROPN": 1,
+            "CCONJ": 2,
+            "ADJ": 2,
+            "PRON": 1
+        }
+    ],
+    "video8829": [
+        {
+            "NUM": 1,
+            "NOUN": 3,
+            "VERB": 2,
+            "ADP": 1,
+            "CCONJ": 1,
+            "DET": 1
+        }
+    ],
+    "video8830": [
+        {
+            "PRON": 1,
+            "AUX": 1,
+            "DET": 2,
+            "NOUN": 2,
+            "ADP": 1
+        }
+    ],
+    "video8831": [
+        {
+            "ADJ": 1,
+            "NOUN": 6,
+            "VERB": 4,
+            "ADP": 2,
+            "CCONJ": 1
+        }
+    ],
+    "video8832": [
+        {
+            "DET": 1,
+            "NOUN": 2,
+            "VERB": 1,
+            "PRON": 1
+        }
+    ],
+    "video8834": [
+        {
+            "DET": 3,
+            "NOUN": 3,
+            "AUX": 2,
+            "VERB": 4,
+            "ADP": 2,
+            "PRON": 2,
+            "ADV": 1,
+            "PART": 1
+        }
+    ],
+    "video8835": [
+        {
+            "DET": 2,
+            "NOUN": 4,
+            "VERB": 1,
+            "ADP": 2,
+            "PROPN": 1,
+            "PRON": 1
+        }
+    ],
+    "video8836": [
+        {
+            "DET": 3,
+            "NOUN": 4,
+            "AUX": 2,
+            "VERB": 2,
+            "CCONJ": 1
+        }
+    ],
+    "video8837": [
+        {
+            "DET": 3,
+            "ADJ": 1,
+            "NOUN": 3,
+            "VERB": 2,
+            "PRON": 1,
+            "AUX": 1,
+            "ADP": 1
+        }
+    ],
+    "video8839": [
+        {
+            "PROPN": 2,
+            "AUX": 1,
+            "VERB": 1,
+            "NOUN": 1,
+            "ADP": 2,
+            "PRON": 1
+        }
+    ],
+    "video8851": [
+        {
+            "DET": 2,
+            "NOUN": 3,
+            "ADP": 2,
+            "ADJ": 1,
+            "VERB": 2,
+            "SCONJ": 1,
+            "PRON": 1,
+            "AUX": 1
+        }
+    ],
+    "video8860": [
+        {
+            "PROPN": 1,
+            "ADP": 2,
+            "DET": 2,
+            "NOUN": 2
+        }
+    ],
+    "video8861": [
+        {
+            "DET": 1,
+            "ADJ": 1,
+            "NOUN": 3,
+            "SCONJ": 1,
+            "PRON": 1,
+            "VERB": 1
+        }
+    ],
+    "video8862": [
+        {
+            "DET": 4,
+            "NOUN": 6,
+            "PART": 1,
+            "VERB": 2,
+            "ADJ": 1,
+            "SCONJ": 1
+        }
+    ],
+    "video8863": [
+        {
+            "DET": 2,
+            "VERB": 2,
+            "NOUN": 3,
+            "ADP": 2,
+            "CCONJ": 1,
+            "PRON": 1
+        }
+    ],
+    "video8864": [
+        {
+            "DET": 2,
+            "NOUN": 2,
+            "ADP": 2,
+            "PROPN": 4,
+            "VERB": 1
+        }
+    ],
+    "video8865": [
+        {
+            "DET": 3,
+            "NOUN": 5,
+            "ADP": 1,
+            "AUX": 2,
+            "VERB": 3,
+            "PRON": 1,
+            "ADJ": 2,
+            "CCONJ": 1
+        }
+    ],
+    "video8866": [
+        {
+            "DET": 2,
+            "NOUN": 5,
+            "ADP": 1,
+            "PART": 1,
+            "CCONJ": 1
+        }
+    ],
+    "video8867": [
+        {
+            "DET": 1,
+            "NOUN": 2,
+            "VERB": 1,
+            "ADV": 2,
+            "NUM": 1,
+            "ADJ": 1
+        }
+    ],
+    "video8868": [
+        {
+            "DET": 3,
+            "ADJ": 1,
+            "NOUN": 3,
+            "VERB": 2,
+            "ADP": 2,
+            "CCONJ": 1
+        }
+    ],
+    "video8869": [
+        {
+            "DET": 2,
+            "NOUN": 5,
+            "VERB": 1,
+            "ADP": 1
+        }
+    ],
+    "video8879": [
+        {
+            "DET": 3,
+            "ADJ": 1,
+            "NOUN": 6,
+            "AUX": 2,
+            "VERB": 3,
+            "PRON": 1,
+            "ADP": 3,
+            "CCONJ": 1
+        }
+    ],
+    "video8895": [
+        {
+            "DET": 3,
+            "NOUN": 3,
+            "CCONJ": 1,
+            "AUX": 1,
+            "VERB": 1,
+            "ADP": 1
+        }
+    ],
+    "video8899": [
+        {
+            "DET": 3,
+            "NOUN": 3,
+            "VERB": 1,
+            "ADP": 1,
+            "ADJ": 1
+        }
+    ],
+    "video8900": [
+        {
+            "DET": 2,
+            "NOUN": 2,
+            "VERB": 2,
+            "CCONJ": 1
+        }
+    ],
+    "video8901": [
+        {
+            "NOUN": 4,
+            "VERB": 1,
+            "DET": 1,
+            "ADP": 1
+        }
+    ],
+    "video8902": [
+        {
+            "DET": 4,
+            "NOUN": 5,
+            "AUX": 1,
+            "VERB": 3,
+            "ADP": 4,
+            "PART": 1,
+            "PRON": 2
+        }
+    ],
+    "video8903": [
+        {
+            "PRON": 1,
+            "VERB": 3,
+            "NOUN": 4,
+            "ADP": 3,
+            "PART": 1,
+            "DET": 2
+        }
+    ],
+    "video8904": [
+        {
+            "DET": 2,
+            "NOUN": 3,
+            "AUX": 1,
+            "ADP": 3,
+            "VERB": 2,
+            "ADV": 1,
+            "ADJ": 2
+        }
+    ],
+    "video8905": [
+        {
+            "NUM": 1,
+            "NOUN": 1,
+            "PRON": 1,
+            "AUX": 1,
+            "VERB": 1,
+            "ADP": 1,
+            "DET": 1,
+            "ADJ": 1
+        }
+    ],
+    "video8906": [
+        {
+            "PROPN": 2,
+            "NOUN": 3,
+            "ADP": 2,
+            "ADJ": 3,
+            "DET": 1
+        }
+    ],
+    "video8907": [
+        {
+            "NOUN": 3,
+            "ADP": 2,
+            "DET": 1
+        }
+    ],
+    "video8908": [
+        {
+            "DET": 3,
+            "ADJ": 1,
+            "NOUN": 6,
+            "ADP": 4,
+            "VERB": 1,
+            "CCONJ": 1
+        }
+    ],
+    "video8909": [
+        {
+            "NOUN": 3,
+            "ADP": 2,
+            "PART": 1,
+            "VERB": 2,
+            "DET": 1
+        }
+    ],
+    "video8910": [
+        {
+            "VERB": 1,
+            "NOUN": 2,
+            "ADP": 1,
+            "DET": 1
+        }
+    ],
+    "video8911": [
+        {
+            "DET": 4,
+            "NOUN": 7,
+            "VERB": 3,
+            "SCONJ": 1,
+            "ADP": 1
+        }
+    ],
+    "video8912": [
+        {
+            "DET": 1,
+            "NOUN": 2,
+            "AUX": 1,
+            "VERB": 1
+        }
+    ],
+    "video8913": [
+        {
+            "DET": 1,
+            "NOUN": 2,
+            "ADP": 1,
+            "ADJ": 1
+        }
+    ],
+    "video8914": [
+        {
+            "NOUN": 2,
+            "AUX": 1,
+            "VERB": 1,
+            "ADP": 1,
+            "DET": 1,
+            "ADJ": 1
+        }
+    ],
+    "video8915": [
+        {
+            "NOUN": 2,
+            "VERB": 1,
+            "ADP": 1
+        }
+    ],
+    "video8916": [
+        {
+            "NOUN": 4,
+            "ADP": 1,
+            "DET": 3,
+            "CCONJ": 1
+        }
+    ],
+    "video8917": [
+        {
+            "NUM": 1,
+            "NOUN": 2,
+            "VERB": 1,
+            "ADJ": 1
+        }
+    ],
+    "video8918": [
+        {
+            "DET": 2,
+            "NOUN": 3,
+            "CCONJ": 1,
+            "VERB": 1,
+            "ADP": 2,
+            "ADJ": 2
+        }
+    ],
+    "video8919": [
+        {
+            "DET": 1,
+            "NOUN": 2,
+            "AUX": 1,
+            "VERB": 1,
+            "ADP": 1
+        }
+    ],
+    "video8920": [
+        {
+            "DET": 1,
+            "NOUN": 2,
+            "VERB": 1,
+            "PRON": 1
+        }
+    ],
+    "video8921": [
+        {
+            "PRON": 3,
+            "VERB": 1,
+            "NOUN": 2,
+            "ADP": 1
+        }
+    ],
+    "video8922": [
+        {
+            "DET": 3,
+            "ADJ": 2,
+            "NOUN": 3,
+            "VERB": 2,
+            "ADP": 1,
+            "CCONJ": 1,
+            "ADV": 1,
+            "PRON": 1
+        }
+    ],
+    "video8923": [
+        {
+            "NOUN": 2,
+            "AUX": 1,
+            "VERB": 1
+        }
+    ],
+    "video8924": [
+        {
+            "DET": 2,
+            "NOUN": 3,
+            "VERB": 1,
+            "ADP": 1,
+            "PART": 1
+        }
+    ],
+    "video8925": [
+        {
+            "DET": 2,
+            "NOUN": 2,
+            "VERB": 1,
+            "ADP": 1
+        }
+    ],
+    "video8926": [
+        {
+            "DET": 4,
+            "NOUN": 4,
+            "AUX": 1,
+            "VERB": 1,
+            "ADP": 2,
+            "ADJ": 1
+        }
+    ],
+    "video8927": [
+        {
+            "DET": 1,
+            "NOUN": 2,
+            "ADP": 1,
+            "PROPN": 2
+        }
+    ],
+    "video8928": [
+        {
+            "DET": 3,
+            "NOUN": 4,
+            "VERB": 1,
+            "ADP": 2
+        }
+    ],
+    "video8929": [
+        {
+            "DET": 2,
+            "NOUN": 3,
+            "AUX": 1,
+            "VERB": 1
+        }
+    ],
+    "video8930": [
+        {
+            "DET": 3,
+            "NOUN": 3,
+            "VERB": 1,
+            "ADP": 1
+        }
+    ],
+    "video8931": [
+        {
+            "DET": 3,
+            "NOUN": 6,
+            "VERB": 3,
+            "PRON": 2,
+            "AUX": 1,
+            "CCONJ": 1,
+            "ADP": 1
+        }
+    ],
+    "video8932": [
+        {
+            "DET": 3,
+            "NOUN": 4,
+            "AUX": 1,
+            "VERB": 1,
+            "ADP": 1
+        }
+    ],
+    "video8934": [
+        {
+            "VERB": 2,
+            "ADP": 3,
+            "NOUN": 3
+        }
+    ],
+    "video8935": [
+        {
+            "NOUN": 4,
+            "AUX": 1,
+            "VERB": 1,
+            "DET": 1,
+            "ADP": 1,
+            "ADJ": 1,
+            "CCONJ": 1
+        }
+    ],
+    "video8936": [
+        {
+            "DET": 1,
+            "NOUN": 2,
+            "AUX": 1,
+            "VERB": 1
+        }
+    ],
+    "video8937": [
+        {
+            "DET": 1,
+            "ADJ": 3,
+            "NOUN": 3,
+            "ADP": 2
+        }
+    ],
+    "video8938": [
+        {
+            "DET": 1,
+            "NOUN": 2,
+            "AUX": 1,
+            "VERB": 1
+        }
+    ],
+    "video8945": [
+        {
+            "NUM": 1,
+            "NOUN": 3,
+            "VERB": 2,
+            "ADP": 2,
+            "DET": 2,
+            "ADV": 1
+        }
+    ],
+    "video8948": [
+        {
+            "PRON": 1,
+            "VERB": 2,
+            "DET": 2,
+            "NOUN": 2,
+            "AUX": 1,
+            "ADP": 1
+        }
+    ],
+    "video8949": [
+        {
+            "NOUN": 5,
+            "ADP": 3,
+            "AUX": 1,
+            "VERB": 3,
+            "DET": 2,
+            "CCONJ": 1
+        }
+    ],
+    "video8973": [
+        {
+            "NOUN": 4,
+            "ADP": 1,
+            "DET": 2,
+            "VERB": 3,
+            "PROPN": 1,
+            "PRON": 1,
+            "AUX": 1
+        }
+    ],
+    "video8974": [
+        {
+            "DET": 3,
+            "ADV": 1,
+            "ADJ": 1,
+            "NOUN": 4,
+            "ADP": 2
+        }
+    ],
+    "video8978": [
+        {
+            "NOUN": 5,
+            "VERB": 1,
+            "DET": 2,
+            "ADJ": 1,
+            "ADP": 2
+        }
+    ],
+    "video8979": [
+        {
+            "NOUN": 4,
+            "ADP": 1
+        }
+    ],
+    "video8999": [
+        {
+            "VERB": 1,
+            "NOUN": 3,
+            "PROPN": 1
+        }
+    ],
+    "video9010": [
+        {
+            "DET": 3,
+            "NOUN": 4,
+            "ADP": 5,
+            "PROPN": 1,
+            "VERB": 1,
+            "ADV": 1,
+            "ADJ": 1,
+            "PRON": 1
+        }
+    ],
+    "video9011": [
+        {
+            "DET": 3,
+            "NOUN": 4,
+            "ADP": 2,
+            "ADJ": 2,
+            "CCONJ": 1,
+            "VERB": 1,
+            "ADV": 1
+        }
+    ],
+    "video9012": [
+        {
+            "DET": 4,
+            "NOUN": 4,
+            "ADP": 3,
+            "VERB": 1
+        }
+    ],
+    "video9013": [
+        {
+            "NOUN": 3,
+            "ADP": 1,
+            "VERB": 1
+        }
+    ],
+    "video9014": [
+        {
+            "DET": 1,
+            "NOUN": 4,
+            "VERB": 2,
+            "ADP": 2,
+            "CCONJ": 1,
+            "PRON": 1
+        }
+    ],
+    "video9015": [
+        {
+            "ADJ": 3,
+            "NOUN": 1,
+            "AUX": 1,
+            "PRON": 1,
+            "VERB": 1,
+            "ADV": 1
+        }
+    ],
+    "video9016": [
+        {
+            "DET": 1,
+            "NOUN": 4,
+            "AUX": 1,
+            "VERB": 2,
+            "CCONJ": 1,
+            "ADP": 1
+        }
+    ],
+    "video9017": [
+        {
+            "DET": 2,
+            "NOUN": 4,
+            "AUX": 1,
+            "VERB": 2,
+            "PRON": 1,
+            "ADV": 1,
+            "CCONJ": 1,
+            "ADP": 1
+        }
+    ],
+    "video9018": [
+        {
+            "NOUN": 3,
+            "VERB": 1,
+            "ADP": 1
+        }
+    ],
+    "video9019": [
+        {
+            "NUM": 1,
+            "NOUN": 5,
+            "VERB": 2,
+            "CCONJ": 1,
+            "DET": 3,
+            "ADP": 1
+        }
+    ],
+    "video9020": [
+        {
+            "DET": 3,
+            "NOUN": 4,
+            "AUX": 1,
+            "VERB": 1,
+            "ADP": 2
+        }
+    ],
+    "video9021": [
+        {
+            "DET": 2,
+            "NOUN": 2,
+            "VERB": 1
+        }
+    ],
+    "video9022": [
+        {
+            "DET": 4,
+            "NOUN": 5,
+            "VERB": 3,
+            "ADP": 4,
+            "CCONJ": 1,
+            "PRON": 1
+        }
+    ],
+    "video9023": [
+        {
+            "ADJ": 1,
+            "NOUN": 3,
+            "ADP": 1,
+            "VERB": 2,
+            "AUX": 1,
+            "ADV": 1
+        }
+    ],
+    "video9024": [
+        {
+            "DET": 2,
+            "ADJ": 3,
+            "NOUN": 2,
+            "AUX": 1,
+            "ADP": 1,
+            "CCONJ": 1
+        }
+    ],
+    "video9025": [
+        {
+            "DET": 1,
+            "ADJ": 1,
+            "NOUN": 2,
+            "ADP": 1,
+            "VERB": 1,
+            "PRON": 1
+        }
+    ],
+    "video9026": [
+        {
+            "ADV": 1,
+            "NOUN": 3,
+            "ADP": 1,
+            "DET": 2,
+            "NUM": 1,
+            "AUX": 1,
+            "VERB": 1
+        }
+    ],
+    "video9027": [
+        {
+            "DET": 1,
+            "NOUN": 2,
+            "ADP": 1,
+            "ADJ": 1,
+            "AUX": 1,
+            "VERB": 1
+        }
+    ],
+    "video9028": [
+        {
+            "NOUN": 3,
+            "ADP": 1,
+            "PROPN": 1,
+            "VERB": 2
+        }
+    ],
+    "video9029": [
+        {
+            "DET": 3,
+            "NOUN": 5,
+            "AUX": 1,
+            "VERB": 1,
+            "ADP": 2
+        }
+    ],
+    "video9030": [
+        {
+            "VERB": 2,
+            "NOUN": 2,
+            "ADP": 1,
+            "DET": 1
+        }
+    ],
+    "video9031": [
+        {
+            "DET": 2,
+            "NOUN": 2,
+            "AUX": 1,
+            "VERB": 2,
+            "SCONJ": 1,
+            "ADP": 1,
+            "PRON": 1
+        }
+    ],
+    "video9032": [
+        {
+            "DET": 3,
+            "NOUN": 5,
+            "CCONJ": 1,
+            "VERB": 1,
+            "ADJ": 1
+        }
+    ],
+    "video9033": [
+        {
+            "NOUN": 3,
+            "VERB": 2,
+            "ADP": 3,
+            "DET": 2,
+            "ADJ": 2
+        }
+    ],
+    "video9034": [
+        {
+            "ADJ": 2,
+            "NOUN": 1,
+            "VERB": 1
+        }
+    ],
+    "video9035": [
+        {
+            "DET": 1,
+            "NOUN": 2,
+            "ADP": 1,
+            "ADJ": 1,
+            "AUX": 1,
+            "VERB": 1
+        }
+    ],
+    "video9036": [
+        {
+            "ADJ": 3,
+            "NOUN": 7,
+            "ADP": 3,
+            "AUX": 1,
+            "VERB": 2,
+            "DET": 1,
+            "CCONJ": 1,
+            "PRON": 1
+        }
+    ],
+    "video9037": [
+        {
+            "DET": 1,
+            "NOUN": 3,
+            "AUX": 1,
+            "VERB": 2,
+            "ADP": 2,
+            "PRON": 2,
+            "CCONJ": 1,
+            "NUM": 1
+        }
+    ],
+    "video9038": [
+        {
+            "DET": 2,
+            "NOUN": 2,
+            "AUX": 1,
+            "VERB": 1
+        }
+    ],
+    "video9039": [
+        {
+            "NUM": 1,
+            "NOUN": 8,
+            "ADP": 5,
+            "VERB": 5,
+            "ADJ": 1,
+            "CCONJ": 1
+        }
+    ],
+    "video9063": [
+        {
+            "NOUN": 2,
+            "ADP": 1,
+            "VERB": 1
+        }
+    ],
+    "video9117": [
+        {
+            "DET": 1,
+            "NOUN": 7,
+            "ADP": 3,
+            "ADJ": 2,
+            "VERB": 5,
+            "PROPN": 2,
+            "CCONJ": 1
+        }
+    ],
+    "video9119": [
+        {
+            "DET": 1,
+            "NOUN": 4,
+            "VERB": 1,
+            "ADP": 2,
+            "CCONJ": 1,
+            "ADJ": 1
+        }
+    ],
+    "video9131": [
+        {
+            "NUM": 2,
+            "NOUN": 6,
+            "VERB": 6,
+            "CCONJ": 1,
+            "PRON": 2,
+            "PART": 1,
+            "DET": 1,
+            "ADP": 3,
+            "ADJ": 2,
+            "AUX": 1
+        }
+    ],
+    "video9200": [
+        {
+            "NOUN": 5,
+            "AUX": 1,
+            "VERB": 2,
+            "ADP": 4,
+            "NUM": 2,
+            "DET": 2,
+            "ADJ": 1
+        }
+    ],
+    "video9201": [
+        {
+            "DET": 3,
+            "NOUN": 4,
+            "ADP": 3,
+            "ADJ": 1
+        }
+    ],
+    "video9202": [
+        {
+            "DET": 1,
+            "NOUN": 4,
+            "ADP": 1
+        }
+    ],
+    "video9203": [
+        {
+            "DET": 3,
+            "NOUN": 4,
+            "AUX": 1,
+            "VERB": 2,
+            "ADJ": 1,
+            "ADP": 3,
+            "PRON": 2
+        }
+    ],
+    "video9204": [
+        {
+            "DET": 2,
+            "NOUN": 3,
+            "VERB": 1,
+            "ADP": 1
+        }
+    ],
+    "video9205": [
+        {
+            "DET": 2,
+            "NOUN": 3,
+            "VERB": 2,
+            "ADP": 3,
+            "PRON": 1,
+            "PROPN": 1
+        }
+    ],
+    "video9206": [
+        {
+            "DET": 2,
+            "NOUN": 3,
+            "VERB": 2,
+            "PART": 1,
+            "SCONJ": 1,
+            "ADV": 1,
+            "ADJ": 2,
+            "AUX": 1
+        }
+    ],
+    "video9207": [
+        {
+            "DET": 1,
+            "NOUN": 3,
+            "AUX": 1,
+            "VERB": 1,
+            "ADV": 1,
+            "ADP": 1,
+            "PRON": 1
+        }
+    ],
+    "video9208": [
+        {
+            "DET": 4,
+            "NOUN": 6,
+            "AUX": 1,
+            "VERB": 1,
+            "ADV": 1,
+            "ADP": 2
+        }
+    ],
+    "video9209": [
+        {
+            "DET": 1,
+            "NOUN": 2,
+            "VERB": 2,
+            "PRON": 1
+        }
+    ],
+    "video9220": [
+        {
+            "DET": 1,
+            "NOUN": 3,
+            "AUX": 1,
+            "VERB": 1,
+            "ADJ": 1,
+            "ADP": 1
+        }
+    ],
+    "video9221": [
+        {
+            "DET": 1,
+            "NOUN": 2,
+            "AUX": 2,
+            "VERB": 1
+        }
+    ],
+    "video9222": [
+        {
+            "DET": 3,
+            "NOUN": 4,
+            "AUX": 1,
+            "VERB": 1,
+            "ADP": 3
+        }
+    ],
+    "video9223": [
+        {
+            "DET": 3,
+            "NOUN": 6,
+            "CCONJ": 3,
+            "AUX": 1,
+            "VERB": 1,
+            "ADP": 2
+        }
+    ],
+    "video9224": [
+        {
+            "PRON": 1,
+            "AUX": 1,
+            "VERB": 1,
+            "DET": 1,
+            "NOUN": 1
+        }
+    ],
+    "video9225": [
+        {
+            "DET": 2,
+            "NOUN": 3,
+            "VERB": 1
+        }
+    ],
+    "video9226": [
+        {
+            "DET": 2,
+            "NOUN": 2,
+            "VERB": 1,
+            "ADP": 2,
+            "ADJ": 1
+        }
+    ],
+    "video9227": [
+        {
+            "NOUN": 2,
+            "VERB": 2,
+            "SCONJ": 1,
+            "PART": 1
+        }
+    ],
+    "video9228": [
+        {
+            "NOUN": 3,
+            "ADP": 1,
+            "ADJ": 1,
+            "VERB": 2,
+            "SCONJ": 1,
+            "PRON": 1,
+            "ADV": 1
+        }
+    ],
+    "video9229": [
+        {
+            "NOUN": 3,
+            "VERB": 1,
+            "ADP": 1
+        }
+    ],
+    "video9230": [
+        {
+            "DET": 2,
+            "NOUN": 5,
+            "VERB": 6,
+            "ADP": 3,
+            "ADJ": 2,
+            "PART": 2,
+            "PRON": 3,
+            "SCONJ": 1
+        }
+    ],
+    "video9231": [
+        {
+            "ADJ": 2,
+            "PROPN": 1,
+            "NOUN": 5,
+            "AUX": 2,
+            "VERB": 4,
+            "NUM": 1,
+            "ADP": 2,
+            "PRON": 1,
+            "PART": 1,
+            "DET": 1
+        }
+    ],
+    "video9232": [
+        {
+            "DET": 5,
+            "NOUN": 8,
+            "VERB": 4,
+            "ADP": 4,
+            "PRON": 2,
+            "ADV": 2
+        }
+    ],
+    "video9233": [
+        {
+            "DET": 2,
+            "NOUN": 2,
+            "AUX": 1,
+            "VERB": 1
+        }
+    ],
+    "video9234": [
+        {
+            "NUM": 1,
+            "NOUN": 2,
+            "VERB": 2,
+            "CCONJ": 1,
+            "ADP": 1,
+            "DET": 1
+        }
+    ],
+    "video9235": [
+        {
+            "NOUN": 3,
+            "AUX": 1,
+            "VERB": 1,
+            "PRON": 1,
+            "ADP": 1
+        }
+    ],
+    "video9236": [
+        {
+            "DET": 4,
+            "NOUN": 6,
+            "VERB": 2,
+            "ADP": 1,
+            "PART": 1,
+            "SCONJ": 1
+        }
+    ],
+    "video9237": [
+        {
+            "NOUN": 2,
+            "ADP": 1,
+            "DET": 1,
+            "ADJ": 1
+        }
+    ],
+    "video9238": [
+        {
+            "DET": 2,
+            "NOUN": 3,
+            "AUX": 1,
+            "VERB": 3,
+            "CCONJ": 1,
+            "ADP": 1,
+            "SCONJ": 1
+        }
+    ],
+    "video9239": [
+        {
+            "DET": 2,
+            "NOUN": 2,
+            "VERB": 1,
+            "ADP": 1
+        }
+    ],
+    "video9240": [
+        {
+            "ADJ": 2,
+            "NOUN": 2,
+            "ADP": 2,
+            "DET": 2,
+            "PROPN": 2,
+            "CCONJ": 1,
+            "VERB": 1,
+            "PRON": 1
+        }
+    ],
+    "video9241": [
+        {
+            "ADJ": 1,
+            "NOUN": 1,
+            "VERB": 2,
+            "CCONJ": 1
+        }
+    ],
+    "video9242": [
+        {
+            "DET": 2,
+            "NOUN": 3,
+            "VERB": 1,
+            "ADP": 1
+        }
+    ],
+    "video9243": [
+        {
+            "PRON": 1,
+            "AUX": 1,
+            "VERB": 2,
+            "DET": 3,
+            "NOUN": 3,
+            "CCONJ": 1,
+            "ADP": 1
+        }
+    ],
+    "video9244": [
+        {
+            "NOUN": 2,
+            "ADP": 2,
+            "PROPN": 1
+        }
+    ],
+    "video9245": [
+        {
+            "NOUN": 2,
+            "PROPN": 2
+        }
+    ],
+    "video9246": [
+        {
+            "DET": 3,
+            "ADJ": 3,
+            "NOUN": 5,
+            "AUX": 3,
+            "VERB": 2,
+            "CCONJ": 2,
+            "ADP": 1,
+            "ADV": 1,
+            "PART": 1
+        }
+    ],
+    "video9247": [
+        {
+            "ADP": 3,
+            "DET": 3,
+            "VERB": 2,
+            "NOUN": 3,
+            "NUM": 1,
+            "AUX": 1,
+            "ADV": 1,
+            "ADJ": 2
+        }
+    ],
+    "video9248": [
+        {
+            "NOUN": 3,
+            "AUX": 1,
+            "VERB": 1,
+            "ADP": 1
+        }
+    ],
+    "video9249": [
+        {
+            "DET": 1,
+            "NOUN": 3,
+            "AUX": 1,
+            "VERB": 1,
+            "ADP": 1,
+            "ADJ": 1
+        }
+    ],
+    "video9250": [
+        {
+            "DET": 2,
+            "NOUN": 3,
+            "VERB": 1,
+            "ADP": 1,
+            "ADJ": 1
+        }
+    ],
+    "video9251": [
+        {
+            "VERB": 1,
+            "NOUN": 3
+        }
+    ],
+    "video9252": [
+        {
+            "NOUN": 3,
+            "ADP": 2,
+            "DET": 1,
+            "ADJ": 1,
+            "PART": 2,
+            "VERB": 2,
+            "ADV": 1
+        }
+    ],
+    "video9253": [
+        {
+            "NOUN": 3,
+            "VERB": 2,
+            "ADP": 2,
+            "PRON": 2,
+            "CCONJ": 1,
+            "SCONJ": 1,
+            "AUX": 1
+        }
+    ],
+    "video9254": [
+        {
+            "NOUN": 3,
+            "VERB": 2,
+            "CCONJ": 1
+        }
+    ],
+    "video9255": [
+        {
+            "DET": 1,
+            "NOUN": 1,
+            "AUX": 1,
+            "VERB": 1,
+            "ADP": 1
+        }
+    ],
+    "video9256": [
+        {
+            "DET": 1,
+            "NOUN": 2,
+            "AUX": 1,
+            "VERB": 1
+        }
+    ],
+    "video9257": [
+        {
+            "DET": 1,
+            "NOUN": 2,
+            "VERB": 2,
+            "PRON": 1,
+            "ADP": 1,
+            "PART": 1,
+            "AUX": 1
+        }
+    ],
+    "video9258": [
+        {
+            "DET": 2,
+            "NOUN": 2,
+            "AUX": 1,
+            "VERB": 1
+        }
+    ],
+    "video9259": [
+        {
+            "DET": 2,
+            "NOUN": 2,
+            "ADP": 2,
+            "NUM": 1,
+            "AUX": 1
+        }
+    ],
+    "video9277": [
+        {
+            "NOUN": 5,
+            "AUX": 1,
+            "VERB": 1,
+            "DET": 2,
+            "ADP": 2
+        }
+    ],
+    "video9300": [
+        {
+            "DET": 1,
+            "NOUN": 1,
+            "AUX": 1,
+            "VERB": 1
+        }
+    ],
+    "video9301": [
+        {
+            "SCONJ": 1,
+            "PART": 1,
+            "VERB": 1,
+            "DET": 1,
+            "NOUN": 2
+        }
+    ],
+    "video9302": [
+        {
+            "DET": 3,
+            "NOUN": 3,
+            "VERB": 3,
+            "PART": 1,
+            "ADP": 1,
+            "SCONJ": 1,
+            "PRON": 1
+        }
+    ],
+    "video9303": [
+        {
+            "NOUN": 4,
+            "VERB": 1,
+            "DET": 3,
+            "ADP": 2
+        }
+    ],
+    "video9304": [
+        {
+            "NUM": 1,
+            "ADJ": 1,
+            "NOUN": 2,
+            "VERB": 1,
+            "ADP": 1
+        }
+    ],
+    "video9305": [
+        {
+            "DET": 1,
+            "NOUN": 2,
+            "ADP": 1,
+            "PROPN": 2,
+            "CCONJ": 1
+        }
+    ],
+    "video9306": [
+        {
+            "DET": 1,
+            "NOUN": 2,
+            "ADP": 1
+        }
+    ],
+    "video9307": [
+        {
+            "DET": 2,
+            "NOUN": 4,
+            "VERB": 4,
+            "PRON": 2,
+            "ADP": 1,
+            "PART": 1
+        }
+    ],
+    "video9308": [
+        {
+            "DET": 2,
+            "NOUN": 2,
+            "VERB": 1
+        }
+    ],
+    "video9309": [
+        {
+            "PRON": 2,
+            "VERB": 2,
+            "DET": 1,
+            "NOUN": 2
+        }
+    ],
+    "video9320": [
+        {
+            "DET": 3,
+            "ADJ": 2,
+            "NOUN": 3,
+            "VERB": 1,
+            "ADP": 2
+        }
+    ],
+    "video9321": [
+        {
+            "NOUN": 2,
+            "VERB": 1,
+            "ADV": 1,
+            "ADP": 1
+        }
+    ],
+    "video9322": [
+        {
+            "DET": 2,
+            "NOUN": 2,
+            "AUX": 1,
+            "VERB": 2,
+            "ADP": 1
+        }
+    ],
+    "video9323": [
+        {
+            "PRON": 1,
+            "AUX": 1,
+            "DET": 1,
+            "NOUN": 2,
+            "ADP": 1,
+            "ADJ": 1
+        }
+    ],
+    "video9324": [
+        {
+            "VERB": 3,
+            "NOUN": 3,
+            "DET": 2,
+            "ADP": 1,
+            "ADJ": 1
+        }
+    ],
+    "video9325": [
+        {
+            "DET": 2,
+            "NOUN": 2,
+            "AUX": 1,
+            "VERB": 1,
+            "ADJ": 1
+        }
+    ],
+    "video9326": [
+        {
+            "NUM": 1,
+            "NOUN": 3,
+            "VERB": 2,
+            "ADP": 2,
+            "DET": 1
+        }
+    ],
+    "video9327": [
+        {
+            "NOUN": 2,
+            "VERB": 2,
+            "ADP": 1,
+            "CCONJ": 1,
+            "ADJ": 1
+        }
+    ],
+    "video9328": [
+        {
+            "DET": 1,
+            "NOUN": 2,
+            "AUX": 1,
+            "VERB": 1,
+            "ADP": 1
+        }
+    ],
+    "video9329": [
+        {
+            "DET": 1,
+            "NOUN": 1,
+            "AUX": 1,
+            "VERB": 1
+        }
+    ],
+    "video9330": [
+        {
+            "DET": 3,
+            "NOUN": 4,
+            "ADP": 2
+        }
+    ],
+    "video9331": [
+        {
+            "DET": 2,
+            "NOUN": 3,
+            "VERB": 1,
+            "PRON": 1,
+            "ADP": 1
+        }
+    ],
+    "video9332": [
+        {
+            "DET": 2,
+            "NOUN": 2,
+            "VERB": 1
+        }
+    ],
+    "video9333": [
+        {
+            "VERB": 2,
+            "NOUN": 3
+        }
+    ],
+    "video9334": [
+        {
+            "ADP": 3,
+            "NOUN": 6,
+            "DET": 1,
+            "VERB": 1
+        }
+    ],
+    "video9335": [
+        {
+            "DET": 2,
+            "NOUN": 3,
+            "AUX": 1,
+            "VERB": 1,
+            "CCONJ": 1
+        }
+    ],
+    "video9336": [
+        {
+            "NOUN": 5,
+            "ADP": 2,
+            "DET": 1,
+            "VERB": 1
+        }
+    ],
+    "video9337": [
+        {
+            "DET": 2,
+            "NOUN": 2,
+            "AUX": 1,
+            "ADV": 1,
+            "ADP": 1
+        }
+    ],
+    "video9338": [
+        {
+            "DET": 2,
+            "NOUN": 2,
+            "VERB": 1,
+            "ADP": 1
+        }
+    ],
+    "video9339": [
+        {
+            "NOUN": 3,
+            "ADJ": 2,
+            "AUX": 1,
+            "ADP": 1,
+            "DET": 1
+        }
+    ],
+    "video9340": [
+        {
+            "NUM": 1,
+            "ADJ": 1,
+            "NOUN": 1,
+            "VERB": 2,
+            "PART": 1
+        }
+    ],
+    "video9341": [
+        {
+            "DET": 2,
+            "NOUN": 3,
+            "AUX": 2,
+            "ADV": 2,
+            "VERB": 2,
+            "ADJ": 2,
+            "PRON": 1,
+            "ADP": 1
+        }
+    ],
+    "video9342": [
+        {
+            "DET": 3,
+            "NOUN": 8,
+            "VERB": 3,
+            "ADP": 1,
+            "CCONJ": 1,
+            "PART": 1,
+            "PRON": 1,
+            "AUX": 2,
+            "ADV": 1
+        }
+    ],
+    "video9343": [
+        {
+            "NOUN": 3,
+            "AUX": 1,
+            "VERB": 2,
+            "DET": 2,
+            "CCONJ": 1
+        }
+    ],
+    "video9344": [
+        {
+            "NOUN": 3,
+            "ADP": 1,
+            "PRON": 1,
+            "VERB": 1,
+            "DET": 1
+        }
+    ],
+    "video9345": [
+        {
+            "NOUN": 2,
+            "AUX": 1,
+            "VERB": 1
+        }
+    ],
+    "video9346": [
+        {
+            "DET": 2,
+            "NOUN": 3,
+            "VERB": 1
+        }
+    ],
+    "video9347": [
+        {
+            "DET": 1,
+            "NOUN": 4,
+            "ADP": 2,
+            "ADJ": 1,
+            "VERB": 1
+        }
+    ],
+    "video9348": [
+        {
+            "NOUN": 5,
+            "VERB": 2,
+            "ADP": 4,
+            "DET": 2,
+            "ADJ": 1
+        }
+    ],
+    "video9349": [
+        {
+            "NOUN": 2,
+            "VERB": 2,
+            "SCONJ": 1,
+            "PART": 1
+        }
+    ],
+    "video9350": [
+        {
+            "NOUN": 2,
+            "VERB": 2,
+            "DET": 1
+        }
+    ],
+    "video9351": [
+        {
+            "DET": 3,
+            "NOUN": 4,
+            "AUX": 2,
+            "VERB": 2,
+            "ADP": 2,
+            "ADJ": 1,
+            "PRON": 1
+        }
+    ],
+    "video9352": [
+        {
+            "DET": 2,
+            "NOUN": 2,
+            "AUX": 1,
+            "VERB": 1,
+            "ADP": 1
+        }
+    ],
+    "video9353": [
+        {
+            "NUM": 1,
+            "NOUN": 2,
+            "AUX": 2,
+            "ADJ": 2,
+            "CCONJ": 1,
+            "VERB": 1,
+            "PRON": 1,
+            "ADP": 1,
+            "DET": 1
+        }
+    ],
+    "video9354": [
+        {
+            "DET": 2,
+            "ADJ": 1,
+            "NOUN": 3,
+            "AUX": 1,
+            "VERB": 2,
+            "SCONJ": 1,
+            "NUM": 1,
+            "ADP": 1
+        }
+    ],
+    "video9355": [
+        {
+            "DET": 3,
+            "NOUN": 4,
+            "VERB": 1,
+            "ADP": 1
+        }
+    ],
+    "video9356": [
+        {
+            "PRON": 2,
+            "AUX": 1,
+            "VERB": 2,
+            "NOUN": 3,
+            "PROPN": 1,
+            "CCONJ": 1,
+            "ADP": 1,
+            "DET": 1,
+            "PART": 1
+        }
+    ],
+    "video9357": [
+        {
+            "DET": 1,
+            "NOUN": 1,
+            "VERB": 2,
+            "SCONJ": 1,
+            "PRON": 1
+        }
+    ],
+    "video9358": [
+        {
+            "PRON": 1,
+            "AUX": 1,
+            "VERB": 1,
+            "ADP": 1,
+            "DET": 1,
+            "NOUN": 1
+        }
+    ],
+    "video9359": [
+        {
+            "NOUN": 5,
+            "ADP": 2,
+            "DET": 3,
+            "SCONJ": 1,
+            "VERB": 1
+        }
+    ],
+    "video9368": [
+        {
+            "PRON": 1,
+            "VERB": 2,
+            "ADP": 2,
+            "DET": 2,
+            "ADJ": 1,
+            "NOUN": 2
+        }
+    ],
+    "video9400": [
+        {
+            "PRON": 1,
+            "AUX": 1,
+            "VERB": 1,
+            "DET": 1,
+            "NOUN": 1
+        }
+    ],
+    "video9403": [
+        {
+            "PRON": 2,
+            "VERB": 5,
+            "DET": 2,
+            "NOUN": 2,
+            "PART": 1,
+            "CCONJ": 1,
+            "PROPN": 2,
+            "ADP": 1
+        }
+    ],
+    "video9404": [
+        {
+            "DET": 2,
+            "NOUN": 3,
+            "ADP": 1
+        }
+    ],
+    "video9405": [
+        {
+            "PROPN": 1,
+            "NOUN": 3,
+            "VERB": 3,
+            "ADP": 2,
+            "DET": 1,
+            "CCONJ": 1,
+            "PRON": 1
+        }
+    ],
+    "video9406": [
+        {
+            "DET": 2,
+            "NOUN": 3,
+            "VERB": 1,
+            "PRON": 1,
+            "ADP": 1,
+            "SCONJ": 1,
+            "ADJ": 1,
+            "AUX": 1
+        }
+    ],
+    "video9409": [
+        {
+            "DET": 2,
+            "NOUN": 6,
+            "ADP": 2,
+            "ADJ": 3,
+            "CCONJ": 1
+        }
+    ],
+    "video9416": [
+        {
+            "NOUN": 3,
+            "AUX": 2,
+            "VERB": 2,
+            "DET": 1,
+            "ADJ": 1,
+            "PRON": 1
+        }
+    ],
+    "video9418": [
+        {
+            "DET": 1,
+            "NOUN": 5,
+            "ADP": 3,
+            "ADJ": 1,
+            "AUX": 1,
+            "VERB": 1,
+            "CCONJ": 1
+        }
+    ],
+    "video9419": [
+        {
+            "DET": 1,
+            "NOUN": 2,
+            "VERB": 1,
+            "ADP": 1,
+            "ADJ": 1
+        }
+    ],
+    "video9428": [
+        {
+            "NOUN": 3,
+            "ADP": 1,
+            "DET": 1,
+            "CCONJ": 1,
+            "PRON": 1,
+            "SCONJ": 1,
+            "VERB": 1
+        }
+    ],
+    "video9450": [
+        {
+            "DET": 1,
+            "ADJ": 1,
+            "NOUN": 2,
+            "VERB": 1
+        }
+    ],
+    "video9451": [
+        {
+            "NOUN": 2,
+            "VERB": 2,
+            "CCONJ": 1,
+            "ADP": 1,
+            "DET": 1
+        }
+    ],
+    "video9452": [
+        {
+            "DET": 6,
+            "VERB": 2,
+            "ADJ": 2,
+            "NOUN": 8,
+            "ADP": 5
+        }
+    ],
+    "video9458": [
+        {
+            "DET": 2,
+            "NOUN": 3,
+            "VERB": 1
+        }
+    ],
+    "video9472": [
+        {
+            "DET": 7,
+            "NOUN": 9,
+            "VERB": 3,
+            "ADP": 5,
+            "SCONJ": 1,
+            "ADJ": 1
+        }
+    ],
+    "video9474": [
+        {
+            "DET": 1,
+            "NOUN": 2,
+            "VERB": 1,
+            "ADP": 1
+        }
+    ],
+    "video9489": [
+        {
+            "DET": 2,
+            "NOUN": 3,
+            "ADP": 1,
+            "ADJ": 1,
+            "AUX": 1,
+            "VERB": 1
+        }
+    ],
+    "video9503": [
+        {
+            "DET": 1,
+            "NOUN": 4,
+            "AUX": 2,
+            "VERB": 1,
+            "ADP": 2,
+            "SCONJ": 1,
+            "CCONJ": 1,
+            "ADJ": 1
+        }
+    ],
+    "video9508": [
+        {
+            "NOUN": 4,
+            "ADP": 2,
+            "DET": 2,
+            "PRON": 1,
+            "AUX": 1,
+            "VERB": 2,
+            "PART": 1
+        }
+    ],
+    "video9509": [
+        {
+            "DET": 1,
+            "NOUN": 2,
+            "ADP": 1,
+            "ADJ": 2,
+            "VERB": 1,
+            "NUM": 1
+        }
+    ],
+    "video9510": [
+        {
+            "PROPN": 1,
+            "NOUN": 3
+        }
+    ],
+    "video9511": [
+        {
+            "DET": 1,
+            "NOUN": 3,
+            "AUX": 1,
+            "VERB": 1,
+            "ADJ": 1,
+            "ADP": 1
+        }
+    ],
+    "video9512": [
+        {
+            "DET": 2,
+            "NOUN": 3,
+            "ADP": 1,
+            "ADJ": 2,
+            "CCONJ": 1,
+            "AUX": 1,
+            "VERB": 1
+        }
+    ],
+    "video9513": [
+        {
+            "DET": 1,
+            "NOUN": 1,
+            "AUX": 1,
+            "VERB": 1
+        }
+    ],
+    "video9514": [
+        {
+            "ADP": 3,
+            "DET": 1,
+            "ADJ": 2,
+            "NOUN": 3,
+            "CCONJ": 1
+        }
+    ],
+    "video9515": [
+        {
+            "DET": 1,
+            "NOUN": 1,
+            "AUX": 1,
+            "VERB": 1
+        }
+    ],
+    "video9516": [
+        {
+            "NOUN": 2,
+            "AUX": 1,
+            "VERB": 1,
+            "ADP": 1,
+            "DET": 1
+        }
+    ],
+    "video9517": [
+        {
+            "DET": 1,
+            "NOUN": 3,
+            "ADP": 1,
+            "ADJ": 1
+        }
+    ],
+    "video9518": [
+        {
+            "NOUN": 2,
+            "VERB": 1,
+            "ADP": 1,
+            "DET": 1
+        }
+    ],
+    "video9519": [
+        {
+            "PROPN": 1,
+            "NOUN": 2,
+            "VERB": 1,
+            "ADP": 1,
+            "DET": 1
+        }
+    ],
+    "video9520": [
+        {
+            "DET": 3,
+            "ADJ": 1,
+            "NOUN": 3,
+            "ADP": 2,
+            "AUX": 1,
+            "VERB": 1
+        }
+    ],
+    "video9521": [
+        {
+            "DET": 2,
+            "NOUN": 3,
+            "AUX": 1,
+            "VERB": 1,
+            "ADP": 2,
+            "PROPN": 1
+        }
+    ],
+    "video9522": [
+        {
+            "DET": 2,
+            "NOUN": 3,
+            "AUX": 1,
+            "VERB": 1,
+            "ADP": 1
+        }
+    ],
+    "video9524": [
+        {
+            "DET": 1,
+            "NOUN": 5,
+            "ADP": 1,
+            "AUX": 1,
+            "VERB": 3,
+            "PRON": 1,
+            "CCONJ": 1
+        }
+    ],
+    "video9530": [
+        {
+            "PROPN": 1,
+            "AUX": 1,
+            "VERB": 1,
+            "DET": 1,
+            "NOUN": 1
+        }
+    ],
+    "video9534": [
+        {
+            "DET": 2,
+            "NOUN": 3,
+            "VERB": 1,
+            "ADP": 1
+        }
+    ],
+    "video9535": [
+        {
+            "DET": 2,
+            "NOUN": 3,
+            "AUX": 2,
+            "VERB": 2,
+            "ADP": 1,
+            "PRON": 1
+        }
+    ],
+    "video9537": [
+        {
+            "VERB": 2,
+            "ADJ": 1,
+            "NOUN": 4,
+            "ADP": 3
+        }
+    ],
+    "video9539": [
+        {
+            "DET": 2,
+            "NOUN": 2,
+            "VERB": 1,
+            "ADJ": 1
+        }
+    ],
+    "video9542": [
+        {
+            "NOUN": 4,
+            "ADP": 1
+        }
+    ],
+    "video9545": [
+        {
+            "DET": 2,
+            "NOUN": 3,
+            "VERB": 1,
+            "ADP": 2,
+            "ADJ": 1,
+            "NUM": 1
+        }
+    ],
+    "video9548": [
+        {
+            "DET": 2,
+            "NOUN": 4,
+            "VERB": 1,
+            "ADP": 1
+        }
+    ],
+    "video9549": [
+        {
+            "NOUN": 4,
+            "ADP": 2,
+            "DET": 1,
+            "SCONJ": 1,
+            "PRON": 2,
+            "VERB": 1
+        }
+    ],
+    "video9574": [
+        {
+            "ADP": 2,
+            "DET": 4,
+            "NOUN": 5
+        }
+    ],
+    "video9575": [
+        {
+            "DET": 3,
+            "NOUN": 4,
+            "ADP": 2,
+            "ADJ": 1,
+            "SCONJ": 1,
+            "AUX": 1,
+            "PRON": 1
+        }
+    ],
+    "video9576": [
+        {
+            "DET": 1,
+            "NOUN": 6,
+            "ADJ": 1,
+            "ADP": 3,
+            "VERB": 2
+        }
+    ],
+    "video9577": [
+        {
+            "PROPN": 1,
+            "NUM": 1,
+            "NOUN": 2,
+            "ADP": 2,
+            "CCONJ": 1,
+            "VERB": 1,
+            "PRON": 1,
+            "ADV": 1
+        }
+    ],
+    "video9578": [
+        {
+            "DET": 1,
+            "NOUN": 1,
+            "VERB": 1,
+            "ADJ": 1
+        }
+    ],
+    "video9579": [
+        {
+            "NUM": 1,
+            "NOUN": 3,
+            "VERB": 1,
+            "ADP": 1,
+            "PART": 1
+        }
+    ],
+    "video9580": [
+        {
+            "DET": 1,
+            "NOUN": 3,
+            "AUX": 1,
+            "VERB": 2,
+            "ADJ": 1,
+            "ADV": 1,
+            "CCONJ": 1
+        }
+    ],
+    "video9581": [
+        {
+            "ADJ": 1,
+            "NOUN": 4,
+            "VERB": 2,
+            "ADP": 2,
+            "SCONJ": 1,
+            "DET": 1
+        }
+    ],
+    "video9589": [
+        {
+            "DET": 2,
+            "NOUN": 3,
+            "VERB": 1,
+            "ADP": 1
+        }
+    ],
+    "video9600": [
+        {
+            "ADJ": 1,
+            "NOUN": 3,
+            "VERB": 1,
+            "CCONJ": 1
+        }
+    ],
+    "video9603": [
+        {
+            "DET": 5,
+            "NOUN": 6,
+            "ADP": 4,
+            "PRON": 1,
+            "VERB": 2
+        }
+    ],
+    "video9605": [
+        {
+            "DET": 2,
+            "ADJ": 1,
+            "NOUN": 2,
+            "ADP": 1
+        }
+    ],
+    "video9607": [
+        {
+            "DET": 2,
+            "NOUN": 3,
+            "ADP": 1,
+            "VERB": 1
+        }
+    ],
+    "video9609": [
+        {
+            "NUM": 1,
+            "NOUN": 2,
+            "VERB": 2,
+            "DET": 1,
+            "ADJ": 1,
+            "ADP": 1,
+            "ADV": 1
+        }
+    ],
+    "video9620": [
+        {
+            "ADJ": 1,
+            "NOUN": 6,
+            "PRON": 3,
+            "VERB": 1,
+            "ADP": 4
+        }
+    ],
+    "video9622": [
+        {
+            "NOUN": 3,
+            "AUX": 1,
+            "VERB": 1,
+            "ADP": 2,
+            "DET": 2
+        }
+    ],
+    "video9623": [
+        {
+            "DET": 2,
+            "NOUN": 4,
+            "AUX": 2,
+            "ADP": 1,
+            "SCONJ": 1,
+            "VERB": 1
+        }
+    ],
+    "video9625": [
+        {
+            "PRON": 1,
+            "DET": 1,
+            "NOUN": 5,
+            "ADP": 1
+        }
+    ],
+    "video9639": [
+        {
+            "NOUN": 3,
+            "VERB": 2,
+            "ADP": 1
+        }
+    ],
+    "video9647": [
+        {
+            "NOUN": 1,
+            "AUX": 2,
+            "VERB": 1
+        }
+    ],
+    "video9657": [
+        {
+            "DET": 2,
+            "NOUN": 5,
+            "CCONJ": 1,
+            "VERB": 2,
+            "ADP": 2
+        }
+    ],
+    "video9677": [
+        {
+            "DET": 3,
+            "NOUN": 3,
+            "VERB": 3,
+            "ADJ": 1,
+            "SCONJ": 1
+        }
+    ],
+    "video9679": [
+        {
+            "DET": 1,
+            "NOUN": 2,
+            "ADP": 1,
+            "ADJ": 1
+        }
+    ],
+    "video9680": [
+        {
+            "ADP": 2,
+            "PROPN": 1,
+            "NOUN": 3,
+            "AUX": 2,
+            "DET": 2,
+            "PRON": 1,
+            "VERB": 1
+        }
+    ],
+    "video9681": [
+        {
+            "NOUN": 3,
+            "AUX": 1,
+            "VERB": 1,
+            "ADP": 1
+        }
+    ],
+    "video9682": [
+        {
+            "DET": 2,
+            "NOUN": 3,
+            "AUX": 1,
+            "ADJ": 2,
+            "ADP": 2,
+            "VERB": 1
+        }
+    ],
+    "video9683": [
+        {
+            "DET": 1,
+            "NOUN": 4,
+            "CCONJ": 1,
+            "VERB": 1,
+            "ADP": 2
+        }
+    ],
+    "video9684": [
+        {
+            "PRON": 1,
+            "VERB": 1,
+            "ADJ": 2,
+            "NOUN": 3,
+            "ADP": 2,
+            "DET": 1
+        }
+    ],
+    "video9685": [
+        {
+            "NOUN": 2,
+            "VERB": 1,
+            "ADJ": 1
+        }
+    ],
+    "video9686": [
+        {
+            "DET": 1,
+            "NOUN": 3,
+            "ADP": 2
+        }
+    ],
+    "video9687": [
+        {
+            "DET": 2,
+            "NOUN": 3,
+            "VERB": 2,
+            "CCONJ": 1,
+            "ADP": 1
+        }
+    ],
+    "video9688": [
+        {
+            "DET": 3,
+            "NOUN": 3,
+            "VERB": 1,
+            "ADP": 2
+        }
+    ],
+    "video9689": [
+        {
+            "NOUN": 3,
+            "AUX": 1,
+            "VERB": 1,
+            "ADP": 1,
+            "DET": 1,
+            "ADJ": 1
+        }
+    ],
+    "video9690": [
+        {
+            "DET": 5,
+            "NOUN": 5,
+            "VERB": 1,
+            "ADP": 4,
+            "PRON": 1,
+            "ADV": 1
+        }
+    ],
+    "video9691": [
+        {
+            "DET": 4,
+            "NOUN": 3,
+            "ADP": 2,
+            "PROPN": 1,
+            "NUM": 1,
+            "VERB": 1
+        }
+    ],
+    "video9692": [
+        {
+            "DET": 3,
+            "NOUN": 5,
+            "ADP": 2,
+            "AUX": 1,
+            "VERB": 1
+        }
+    ],
+    "video9693": [
+        {
+            "DET": 2,
+            "NOUN": 8,
+            "VERB": 1,
+            "CCONJ": 1,
+            "ADP": 1,
+            "ADJ": 2
+        }
+    ],
+    "video9694": [
+        {
+            "DET": 1,
+            "NOUN": 2,
+            "VERB": 1
+        }
+    ],
+    "video9695": [
+        {
+            "NOUN": 4,
+            "VERB": 2,
+            "ADP": 1,
+            "DET": 1,
+            "PRON": 1
+        }
+    ],
+    "video9696": [
+        {
+            "DET": 2,
+            "NOUN": 2,
+            "VERB": 1,
+            "ADP": 1
+        }
+    ],
+    "video9697": [
+        {
+            "DET": 2,
+            "NOUN": 3,
+            "VERB": 1
+        }
+    ],
+    "video9698": [
+        {
+            "DET": 5,
+            "NOUN": 3,
+            "AUX": 2,
+            "VERB": 3,
+            "ADP": 1,
+            "PRON": 1,
+            "CCONJ": 1,
+            "ADJ": 4
+        }
+    ],
+    "video9699": [
+        {
+            "DET": 2,
+            "NOUN": 2,
+            "VERB": 2,
+            "SCONJ": 1,
+            "PART": 1
+        }
+    ],
+    "video9728": [
+        {
+            "DET": 1,
+            "NOUN": 3,
+            "VERB": 1,
+            "ADP": 1
+        }
+    ],
+    "video9731": [
+        {
+            "DET": 2,
+            "NOUN": 3,
+            "AUX": 1,
+            "VERB": 2,
+            "ADP": 1
+        }
+    ],
+    "video9734": [
+        {
+            "DET": 2,
+            "NOUN": 3,
+            "VERB": 2,
+            "NUM": 1,
+            "ADP": 1
+        }
+    ],
+    "video9735": [
+        {
+            "ADJ": 1,
+            "NOUN": 2,
+            "AUX": 1,
+            "VERB": 2,
+            "CCONJ": 1,
+            "ADP": 1
+        }
+    ],
+    "video9742": [
+        {
+            "DET": 2,
+            "NOUN": 3,
+            "VERB": 2,
+            "ADP": 1,
+            "ADJ": 1
+        }
+    ],
+    "video9744": [
+        {
+            "PRON": 1,
+            "AUX": 1,
+            "DET": 1,
+            "ADJ": 1,
+            "NOUN": 2
+        }
+    ],
+    "video9745": [
+        {
+            "DET": 2,
+            "NOUN": 2,
+            "AUX": 1,
+            "VERB": 1
+        }
+    ],
+    "video9750": [
+        {
+            "DET": 3,
+            "NOUN": 4,
+            "VERB": 1,
+            "PRON": 1,
+            "ADP": 2
+        }
+    ],
+    "video9752": [
+        {
+            "DET": 2,
+            "NOUN": 3,
+            "AUX": 2,
+            "VERB": 1,
+            "CCONJ": 1,
+            "ADJ": 1,
+            "ADP": 1
+        }
+    ],
+    "video9755": [
+        {
+            "NOUN": 3,
+            "ADP": 1
+        }
+    ],
+    "video9770": [
+        {
+            "DET": 1,
+            "NOUN": 1,
+            "AUX": 1,
+            "VERB": 2,
+            "PRON": 1,
+            "PART": 1
+        }
+    ],
+    "video9771": [
+        {
+            "DET": 1,
+            "ADJ": 1,
+            "NOUN": 2,
+            "VERB": 1
+        }
+    ],
+    "video9772": [
+        {
+            "DET": 2,
+            "NOUN": 3,
+            "AUX": 1,
+            "VERB": 1,
+            "ADP": 1
+        }
+    ],
+    "video9773": [
+        {
+            "DET": 1,
+            "NOUN": 3,
+            "VERB": 1,
+            "ADJ": 1,
+            "NUM": 1
+        }
+    ],
+    "video9774": [
+        {
+            "DET": 4,
+            "NOUN": 5,
+            "AUX": 2,
+            "VERB": 2,
+            "ADP": 3,
+            "ADJ": 1
+        }
+    ],
+    "video9775": [
+        {
+            "DET": 2,
+            "NOUN": 3,
+            "VERB": 1,
+            "ADP": 2
+        }
+    ],
+    "video9776": [
+        {
+            "NUM": 1,
+            "ADJ": 2,
+            "NOUN": 1,
+            "AUX": 1,
+            "VERB": 1,
+            "ADP": 1
+        }
+    ],
+    "video9777": [
+        {
+            "DET": 3,
+            "NOUN": 4,
+            "VERB": 1,
+            "ADP": 3,
+            "PRON": 1
+        }
+    ],
+    "video9778": [
+        {
+            "DET": 1,
+            "ADJ": 1,
+            "NOUN": 3,
+            "VERB": 2,
+            "ADP": 2,
+            "CCONJ": 1
+        }
+    ],
+    "video9779": [
+        {
+            "NOUN": 3,
+            "AUX": 2,
+            "VERB": 2,
+            "CCONJ": 1,
+            "ADP": 1,
+            "DET": 1
+        }
+    ],
+    "video9780": [
+        {
+            "DET": 2,
+            "ADJ": 3,
+            "NOUN": 2,
+            "PRON": 1,
+            "AUX": 2,
+            "VERB": 2,
+            "ADP": 1
+        }
+    ],
+    "video9781": [
+        {
+            "DET": 3,
+            "NOUN": 6,
+            "AUX": 1,
+            "VERB": 1,
+            "ADP": 3,
+            "CCONJ": 1,
+            "PROPN": 1
+        }
+    ],
+    "video9782": [
+        {
+            "DET": 2,
+            "NOUN": 3,
+            "VERB": 1,
+            "ADP": 1,
+            "ADJ": 1
+        }
+    ],
+    "video9784": [
+        {
+            "PROPN": 2,
+            "VERB": 2,
+            "DET": 1,
+            "NOUN": 1,
+            "CCONJ": 1,
+            "ADV": 1
+        }
+    ],
+    "video9788": [
+        {
+            "DET": 2,
+            "NOUN": 5,
+            "ADP": 4,
+            "ADJ": 3,
+            "CCONJ": 1,
+            "VERB": 3,
+            "PRON": 1,
+            "AUX": 1
+        }
+    ],
+    "video9790": [
+        {
+            "ADP": 2,
+            "NOUN": 3,
+            "VERB": 1,
+            "DET": 1,
+            "PROPN": 1
+        }
+    ],
+    "video9791": [
+        {
+            "DET": 1,
+            "NOUN": 2,
+            "VERB": 1,
+            "ADP": 2,
+            "ADJ": 1,
+            "ADV": 1,
+            "PRON": 1
+        }
+    ],
+    "video9793": [
+        {
+            "NOUN": 2,
+            "ADP": 1,
+            "VERB": 1,
+            "ADV": 1
+        }
+    ],
+    "video9795": [
+        {
+            "DET": 2,
+            "NOUN": 3,
+            "VERB": 2,
+            "CCONJ": 1
+        }
+    ],
+    "video9797": [
+        {
+            "DET": 2,
+            "NOUN": 3,
+            "ADP": 1
+        }
+    ],
+    "video9798": [
+        {
+            "DET": 1,
+            "NOUN": 3,
+            "VERB": 1,
+            "ADP": 1,
+            "PRON": 1
+        }
+    ],
+    "video9800": [
+        {
+            "DET": 2,
+            "NOUN": 2,
+            "AUX": 1,
+            "ADP": 1
+        }
+    ],
+    "video9801": [
+        {
+            "NOUN": 7,
+            "ADP": 3,
+            "PRON": 3,
+            "CCONJ": 1,
+            "DET": 2,
+            "SCONJ": 1,
+            "VERB": 1,
+            "ADJ": 1
+        }
+    ],
+    "video9802": [
+        {
+            "DET": 3,
+            "NOUN": 5,
+            "ADP": 1,
+            "SCONJ": 1,
+            "PROPN": 2
+        }
+    ],
+    "video9803": [
+        {
+            "NUM": 1,
+            "NOUN": 2,
+            "VERB": 1,
+            "ADP": 1,
+            "DET": 1
+        }
+    ],
+    "video9804": [
+        {
+            "DET": 2,
+            "NOUN": 4,
+            "ADP": 2,
+            "PRON": 1,
+            "AUX": 2
+        }
+    ],
+    "video9805": [
+        {
+            "NOUN": 4,
+            "ADP": 2,
+            "AUX": 2,
+            "VERB": 1,
+            "ADJ": 1,
+            "PROPN": 2,
+            "DET": 1
+        }
+    ],
+    "video9806": [
+        {
+            "NOUN": 3,
+            "AUX": 1,
+            "VERB": 1,
+            "PRON": 1,
+            "ADJ": 1,
+            "ADV": 1,
+            "ADP": 1,
+            "DET": 1
+        }
+    ],
+    "video9807": [
+        {
+            "DET": 1,
+            "NOUN": 2,
+            "AUX": 2,
+            "VERB": 1,
+            "ADP": 1,
+            "ADV": 1
+        }
+    ],
+    "video9808": [
+        {
+            "DET": 1,
+            "NOUN": 3,
+            "VERB": 1
+        }
+    ],
+    "video9809": [
+        {
+            "NOUN": 4,
+            "ADP": 2,
+            "DET": 1,
+            "ADJ": 1
+        }
+    ],
+    "video9810": [
+        {
+            "DET": 3,
+            "NOUN": 7,
+            "AUX": 2,
+            "VERB": 2,
+            "ADP": 1,
+            "CCONJ": 1
+        }
+    ],
+    "video9811": [
+        {
+            "DET": 2,
+            "NOUN": 5,
+            "ADP": 3,
+            "VERB": 2,
+            "CCONJ": 1,
+            "PRON": 1,
+            "ADJ": 1,
+            "ADV": 1
+        }
+    ],
+    "video9812": [
+        {
+            "DET": 2,
+            "NOUN": 3,
+            "VERB": 1
+        }
+    ],
+    "video9813": [
+        {
+            "DET": 3,
+            "NOUN": 4,
+            "VERB": 1,
+            "ADP": 1
+        }
+    ],
+    "video9814": [
+        {
+            "DET": 3,
+            "NOUN": 5,
+            "ADP": 2,
+            "ADJ": 1,
+            "SCONJ": 1,
+            "AUX": 1,
+            "VERB": 2,
+            "CCONJ": 1
+        }
+    ],
+    "video9815": [
+        {
+            "DET": 1,
+            "NOUN": 3,
+            "ADP": 1,
+            "AUX": 2,
+            "VERB": 1
+        }
+    ],
+    "video9816": [
+        {
+            "DET": 1,
+            "ADJ": 2,
+            "NOUN": 1,
+            "VERB": 1,
+            "ADP": 1,
+            "PRON": 1,
+            "CCONJ": 1,
+            "AUX": 1
+        }
+    ],
+    "video9817": [
+        {
+            "NOUN": 2,
+            "ADP": 1,
+            "AUX": 2,
+            "VERB": 1
+        }
+    ],
+    "video9818": [
+        {
+            "DET": 1,
+            "NOUN": 4,
+            "VERB": 1,
+            "ADP": 2,
+            "PRON": 1,
+            "ADJ": 1
+        }
+    ],
+    "video9819": [
+        {
+            "DET": 2,
+            "NOUN": 3,
+            "VERB": 1,
+            "ADP": 1
+        }
+    ],
+    "video9820": [
+        {
+            "DET": 3,
+            "NOUN": 3,
+            "VERB": 1
+        }
+    ],
+    "video9821": [
+        {
+            "DET": 3,
+            "NOUN": 4,
+            "VERB": 2,
+            "CCONJ": 1
+        }
+    ],
+    "video9822": [
+        {
+            "DET": 1,
+            "NOUN": 1,
+            "AUX": 1,
+            "VERB": 1
+        }
+    ],
+    "video9823": [
+        {
+            "ADJ": 3,
+            "NOUN": 2,
+            "ADP": 1
+        }
+    ],
+    "video9824": [
+        {
+            "NUM": 1,
+            "NOUN": 3,
+            "VERB": 2,
+            "ADP": 2,
+            "CCONJ": 1,
+            "DET": 1
+        }
+    ],
+    "video9825": [
+        {
+            "DET": 1,
+            "ADJ": 2,
+            "NOUN": 4,
+            "ADP": 2
+        }
+    ],
+    "video9826": [
+        {
+            "DET": 2,
+            "ADJ": 1,
+            "NOUN": 2,
+            "AUX": 1,
+            "VERB": 1
+        }
+    ],
+    "video9827": [
+        {
+            "PROPN": 1,
+            "NOUN": 4,
+            "ADP": 1,
+            "DET": 1
+        }
+    ],
+    "video9828": [
+        {
+            "ADJ": 2,
+            "NOUN": 2,
+            "AUX": 1,
+            "VERB": 2
+        }
+    ],
+    "video9829": [
+        {
+            "ADJ": 1,
+            "NOUN": 4,
+            "ADP": 2,
+            "SCONJ": 1,
+            "AUX": 1,
+            "VERB": 1,
+            "PRON": 1
+        }
+    ],
+    "video9830": [
+        {
+            "DET": 2,
+            "NOUN": 3,
+            "AUX": 2,
+            "VERB": 1,
+            "ADP": 1,
+            "ADV": 1,
+            "ADJ": 1
+        }
+    ],
+    "video9831": [
+        {
+            "DET": 4,
+            "NOUN": 5,
+            "ADP": 3,
+            "AUX": 2,
+            "VERB": 2
+        }
+    ],
+    "video9832": [
+        {
+            "DET": 2,
+            "NOUN": 4,
+            "VERB": 1,
+            "ADP": 2
+        }
+    ],
+    "video9833": [
+        {
+            "NOUN": 5,
+            "VERB": 2,
+            "ADP": 1
+        }
+    ],
+    "video9834": [
+        {
+            "ADJ": 3,
+            "CCONJ": 2,
+            "NOUN": 4,
+            "AUX": 3,
+            "VERB": 2,
+            "DET": 1,
+            "ADP": 2
+        }
+    ],
+    "video9835": [
+        {
+            "DET": 2,
+            "NOUN": 3,
+            "VERB": 2,
+            "ADP": 2,
+            "CCONJ": 1,
+            "NUM": 1,
+            "PRON": 1
+        }
+    ],
+    "video9836": [
+        {
+            "DET": 1,
+            "NOUN": 2,
+            "AUX": 1,
+            "VERB": 1
+        }
+    ],
+    "video9837": [
+        {
+            "NOUN": 7,
+            "ADP": 3,
+            "DET": 1,
+            "VERB": 1,
+            "ADJ": 1
+        }
+    ],
+    "video9838": [
+        {
+            "DET": 1,
+            "NOUN": 4,
+            "ADP": 1
+        }
+    ],
+    "video9839": [
+        {
+            "DET": 3,
+            "ADJ": 1,
+            "NOUN": 4,
+            "AUX": 1,
+            "ADP": 2,
+            "CCONJ": 1,
+            "VERB": 1
+        }
+    ],
+    "video9871": [
+        {
+            "ADJ": 1,
+            "NOUN": 2,
+            "ADP": 2,
+            "PROPN": 2,
+            "VERB": 1,
+            "DET": 1
+        }
+    ],
+    "video9872": [
+        {
+            "PRON": 1,
+            "AUX": 2,
+            "VERB": 2,
+            "DET": 1,
+            "ADJ": 2,
+            "NOUN": 3,
+            "CCONJ": 1
+        }
+    ],
+    "video9873": [
+        {
+            "NOUN": 2,
+            "VERB": 2,
+            "SCONJ": 1,
+            "PART": 1
+        }
+    ],
+    "video9878": [
+        {
+            "DET": 1,
+            "NOUN": 2,
+            "AUX": 1,
+            "VERB": 1,
+            "ADP": 1
+        }
+    ],
+    "video9879": [
+        {
+            "DET": 1,
+            "ADJ": 1,
+            "NOUN": 2,
+            "VERB": 1,
+            "PRON": 1
+        }
+    ],
+    "video9882": [
+        {
+            "DET": 3,
+            "NOUN": 5,
+            "AUX": 1,
+            "VERB": 2,
+            "CCONJ": 1,
+            "ADP": 1
+        }
+    ],
+    "video9885": [
+        {
+            "DET": 2,
+            "NOUN": 8,
+            "VERB": 2,
+            "ADP": 2,
+            "PRON": 1,
+            "CCONJ": 1,
+            "ADV": 1
+        }
+    ],
+    "video9901": [
+        {
+            "DET": 2,
+            "NOUN": 4,
+            "ADP": 2,
+            "CCONJ": 1,
+            "VERB": 1,
+            "PRON": 1,
+            "ADJ": 1
+        }
+    ],
+    "video9908": [
+        {
+            "DET": 1,
+            "NOUN": 2,
+            "VERB": 1,
+            "ADP": 1
+        }
+    ],
+    "video9909": [
+        {
+            "DET": 3,
+            "NOUN": 5,
+            "ADP": 2,
+            "VERB": 2,
+            "ADV": 1,
+            "ADJ": 1,
+            "SCONJ": 1,
+            "NUM": 1
+        }
+    ],
+    "video9919": [
+        {
+            "DET": 4,
+            "NOUN": 5,
+            "VERB": 3,
+            "ADP": 1,
+            "CCONJ": 1,
+            "PART": 1,
+            "PRON": 1
+        }
+    ],
+    "video9957": [
+        {
+            "DET": 2,
+            "NOUN": 3,
+            "ADP": 2,
+            "AUX": 1,
+            "VERB": 1
+        }
+    ],
+    "video9969": [
+        {
+            "NUM": 1,
+            "NOUN": 3,
+            "AUX": 1,
+            "VERB": 2,
+            "ADP": 2,
+            "DET": 2,
+            "CCONJ": 1
+        }
+    ],
+    "video9975": [
+        {
+            "DET": 3,
+            "ADJ": 1,
+            "NOUN": 4,
+            "ADP": 2,
+            "VERB": 1
+        }
+    ]
+}

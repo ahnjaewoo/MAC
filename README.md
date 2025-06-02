@@ -1,7 +1,7 @@
 # MAC (Multimodal Adversarial Compositionality)
 
 Welcome! 👋
-This is the official repository for our ACL 2025 paper:
+This is the official repository for our ACL 2025 main paper:
 
 **Can LLMs Deceive CLIP? Benchmarking Adversarial Compositionality of Pre-trained Multimodal Representation via Text Updates**
 by [Jaewoo Ahn*](https://ahnjaewoo.github.io/), [Heeseung Yun*](https://hs-yn.github.io/), [Dayoon Ko](https://dayoon-ko.github.io/), and [Gunhee Kim](https://vision.snu.ac.kr/gunhee/).
@@ -10,11 +10,56 @@ by [Jaewoo Ahn*](https://ahnjaewoo.github.io/), [Heeseung Yun*](https://hs-yn.gi
     <img src="./img/main_figure.png" alt="main figure" width="100%" height="100%">
 </p>
 
-## Code Implementation
+## Getting Started
 
-We plan to release the full implementation **soon**.
+### Environment Setup
+We recommend using Anaconda. The following command will create a new conda environment mpchat with all the dependencies.
+```bash
+conda env create -f environment.yml
+```
 
-Stay tuned for updates!
+To activate the environment:
+```bash
+conda activate MAC
+```
+
+Additionally, install the English language model for spaCy:
+```bash
+python -m spacy download en_core_web_sm
+```
+
+### Dataset Preparation
+Please refer to [DATASET.md](DATASET.md) for setup instructions for COCO, MSR-VTT, and AudioCaps
+
+### Setup LanguageBind (Optional)
+To use the `LanguageBind` model, please run the following commands:
+```bash
+git submodule update --init --recursive
+cd dataset_processing/LanguageBind
+
+# Create a separate environment for LanguageBind
+conda create -n LanguageBind python=3.10.10
+conda activate LanguageBind
+
+# Install required dependencies
+pip install torch==1.13.1 torchvision==0.14.1 torchaudio==0.13.1
+pip install -r requirements.txt
+
+# Return to the main environment
+conda activate MAC
+```
+
+### How to Run
+```bash
+# Deceptive-General Prompt (Zero-Shot)
+zsh scripts/zero_shot.sh coco clip
+
+# + Self-Train + Large-N Distilled + Diversity-Promoted (Ours)
+zsh scripts/self_train_with_large_N_ours.sh coco clip
+```
+
+### Load Pretrained Checkpoints from HuggingFace
+Work in Progress...
 
 ## Contact
 

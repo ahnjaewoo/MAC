@@ -1,0 +1,3 @@
+[submodule "dataset_processing/LanguageBind"]
+	path = dataset_processing/LanguageBind
+	url = https://github.com/PKU-YuanGroup/LanguageBind.git
