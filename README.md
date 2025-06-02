@@ -52,14 +52,30 @@ conda activate MAC
 ### How to Run
 ```bash
 # Deceptive-General Prompt (Zero-Shot)
-zsh scripts/zero_shot.sh coco clip
+sh scripts/zero_shot.sh coco clip
 
 # + Self-Train + Large-N Distilled + Diversity-Promoted (Ours)
-zsh scripts/self_train_with_large_N_ours.sh coco clip
+sh scripts/self_train_with_large_N_ours.sh coco clip
 ```
 
 ### Load Pretrained Checkpoints from HuggingFace
-Work in Progress...
+LoRA checkpoint (ASR_total 42.1%) fine-tuned on LLaMA 3.1:8B to deceive CLIP on the COCO dataset.
+#### Step 1: Modify `generate_candidates.py` 
+Replace the model loading part with the following code:
+```python
+model = AutoPeftModelForCausalLM.from_pretrained(
+    'ahnpersie/llama3.1-8b-lora-coco-deceptive-clip', # changed from local "model_checkpoint_dir" to HuggingFace repo
+    torch_dtype=torch.bfloat16,
+    attn_implementation=attn_implementation,
+    device_map=device
+)
+```
+#### Step 2: Run evaluation
+```bash
+sh scripts/generate_evaluate_iter1_example.sh
+```
+
+> **Note**: All experiments were conducted on a single NVIDIA RTX A6000 GPU (48GB VRAM).
 
 ## Contact
 

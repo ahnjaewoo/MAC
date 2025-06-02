@@ -1,0 +1,11 @@
+# Ignore checkpoints
+checkpoints/
+
+# Ignore generated data
+dataset_processing/data/sft/
+dataset_processing/data/candidates/
+
+# Ignore environment files
+*.pyc
+__pycache__/
+.env
