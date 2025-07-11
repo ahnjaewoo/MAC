@@ -7,13 +7,13 @@ This is the official repository for our ACL 2025 main paper:
 by [Jaewoo Ahn*](https://ahnjaewoo.github.io/), [Heeseung Yun*](https://hs-yn.github.io/), [Dayoon Ko](https://dayoon-ko.github.io/), and [Gunhee Kim](https://vision.snu.ac.kr/gunhee/).
 
 <p align="center">
-    <img src="./img/main_figure.png" alt="main figure" width="100%" height="100%">
+    <img src="./img/main_figure.png" alt="main figure" width="100%" height="300%">
 </p>
 
 ## Getting Started
 
 ### Environment Setup
-We recommend using Anaconda. The following command will create a new conda environment mpchat with all the dependencies.
+We recommend using Anaconda. The following command will create a new conda environment MAC with all the dependencies.
 ```bash
 conda env create -f environment.yml
 ```
